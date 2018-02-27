@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Graphics Group @ ISU</title>
+    <link>/categories/r/</link>
+    <description>Recent content in R on Graphics Group @ ISU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>blogdown quick tutorial</title>
+      <link>/2018/02/blogdown-quick-tutorial/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/02/blogdown-quick-tutorial/</guid>
+      <description>In this talk, I will show you how to create a professional academic homepage (or blog) from scratch using the R package ‘blogdown’. I will first introduce some basic concepts of web construction and some essential tools (‘rmarkdown’ and ‘git/github’) that will be used in building websites with ‘blogdown’. Then I will illustrate how to build a website step by step. By the end of the meeting, you are expected to have your own homepage created!</description>
+    </item>
+    
+  </channel>
+</rss>
