@@ -1,0 +1,14 @@
+---
+title: blogdown quick tutorial
+author: Weicheng Zhu
+date: '2018-02-21'
+slug: blogdown-quick-tutorial
+categories:
+  - R
+tags: []
+---
+
+In this talk, I will show you how to create a professional academic homepage (or blog) from scratch using the R package 'blogdown'. I will first introduce some basic concepts of web construction and some essential tools ('rmarkdown' and 'git/github') that will be used in building websites with 'blogdown'. Then I will illustrate how to build a website step by step. By the end of the meeting, you are expected to have your own homepage created!
+
+
+Slides available at http://slides.com/mingsnu/deck/#/

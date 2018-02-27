@@ -1,0 +1,9 @@
+---
+title: handwriting with Rcpp
+author: Nick Berry
+date: '2018-02-28'
+slug: handwriting-with-rcpp
+categories: []
+tags: []
+---
+
