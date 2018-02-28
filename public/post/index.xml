@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>handwriting with Rcpp</title>
-      <link>/2018/02/handwriting-with-rcpp/</link>
+      <title>Information Extraction for Handwritten Text</title>
+      <link>/2018/02/information-extraction-for-handwritten-text/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/02/handwriting-with-rcpp/</guid>
-      <description></description>
+      <guid>/2018/02/information-extraction-for-handwritten-text/</guid>
+      <description>In forensic handwriting applications practitioners are interested in matching a document with an unknown author with a particular person’s writing style. In order for this to be done computationally it is necessary to first process the documents and try to isolate information in the messy documents. Starting with just blobs of ink, we will isolate important characteristics and start to make steps towards having something usable for performing analyses. This talk will introduce a Shiny app that shows off some of the handwriting processing, and will delve into the Rcpp code that makes it go.</description>
     </item>
     
     <item>
