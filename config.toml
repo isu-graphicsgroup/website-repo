@@ -82,7 +82,7 @@ paginate = 5
 
   [params.sidebar]
     # Optional about block for sidebar (can be Markdown)
-    about = "Links to slides of our most recent (or more available) talks."
+    about = "Links to slides of our most recent (or more available) talks. This semester (Spring 2018) we are meeting on Wednesdays at 12:10 (Central)."
 
     # How many posts to show on the sidebar (Default: 5)
     num_recent_posts = 3
