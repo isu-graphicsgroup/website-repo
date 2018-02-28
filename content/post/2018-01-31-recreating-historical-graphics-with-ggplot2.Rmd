@@ -1,0 +1,12 @@
+---
+title: Recreating Historical Graphics with ggplot2
+author: Sam Tyner
+date: '2018-01-31'
+slug: recreating-historical-graphics-with-ggplot2
+categories: []
+tags: []
+---
+
+At the turn of the 19th century, there seemed to have been a sudden interest in the United States in visualizing census data. There are some pretty amazing plots from this time in "The Statistical Atlas of the United States" and in the collection "African American Photographs Assembled for 1900 Paris Exposition" by W.E.B.  Du Bois. In this talk, I'll walk through the process of recreating a small sample of these visualizations using the NHGIS data finder and modern statistical computing tools.
+
+Slides are available at https://sctyner.github.io/historical-graphics-ggplot2.html
