@@ -11,6 +11,11 @@ paginate = 5
 #googleAnalytics = "UA-123-45"
 #disqusShortname = "XYW"
 
+enableGitInfo = true
+relativeURLs = true
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
 [permalinks]
   post = "/:year/:month/:title/"
   page = "/:slug/"
