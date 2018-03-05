@@ -12,7 +12,6 @@ paginate = 5
 #disqusShortname = "XYW"
 
 enableGitInfo = true
-canonifyURLs = false
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
