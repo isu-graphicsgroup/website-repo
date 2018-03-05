@@ -1,6 +1,6 @@
 # Hugo variables
 #
-baseurl = "https://isu-graphicsgroup.netlify.com/"
+baseurl = "https://isu-graphics.rbind.io/"
 languageCode = "en-us"
 title = "Graphics Group @ ISU"
 theme = "hugo-theme-bootstrap4-blog"
@@ -12,7 +12,6 @@ paginate = 5
 #disqusShortname = "XYW"
 
 enableGitInfo = true
-canonifyURLs = false
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
@@ -83,7 +82,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
   # Disable the use of sub-resource integrity on CSS/JS assets (default: false)
   # Useful if you're using a CDN or other host where you can't control cache headers
-  #disable_sri = false
+  disable_sri = true
 
   [params.sidebar]
     # Optional about block for sidebar (can be Markdown)
