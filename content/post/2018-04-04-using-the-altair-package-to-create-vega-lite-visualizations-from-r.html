@@ -1,0 +1,15 @@
+---
+title: Using the altair package to create Vega-Lite visualizations from R
+author: Ian Lyttle
+date: '2018-04-04'
+slug: using-the-altair-package-to-create-vega-lite-visualizations-from-r
+categories: []
+tags: []
+---
+
+
+
+<p>Using R to create browser-rendered interactive visualizations has long been an interest for Graphics Group, and for the larger R community. One of the most-promising efforts out there is the Vega-Lite library: <a href="https://vega.github.io/vega-lite/" class="uri">https://vega.github.io/vega-lite/</a>. Bob Rudis is coordinating an effort to provide a native R-interface to the Vega-Lite library: <a href="https://github.com/hrbrmstr/vegalite" class="uri">https://github.com/hrbrmstr/vegalite</a>.</p>
+<p>In the Python world, Jake Vanderplas and coworkers offer an API to the latest version of Vega-Lite, the Altair library: <a href="https://altair-viz.github.io" class="uri">https://altair-viz.github.io</a>. In late March, RStudio released to CRAN a package called reticulate: <a href="https://github.com/rstudio/reticulate" class="uri">https://github.com/rstudio/reticulate</a>. Its purpose is to make it easy to use a Python library from R. It is the underpinning to their packages to access Tensorflow and Keras. Given the availability of these tools, it seemed possible to make the Altair Python library available to R users, by using the reticulate package.</p>
+<p>This is what is done with the R-package altair: <a href="https://ijlyttle.github.io/altair/index.html" class="uri">https://ijlyttle.github.io/altair/index.html</a>; it uses reticulate to connect R to the Altiar Python library. At the moment, the altair package provides a minimal interface to create and render Vega-Lite visualizations. In this presentation-workshop, we will go through an installation process, a few first examples including linked-brushing, and I’ll share a few thoughts about where this package might go. Of course, your feedback will be essential to this presentation.</p>
+<p>Preparation: If you have some time before the workshop, you can install Python (&gt;= 3.5) and Altair, here are some instructions: <a href="https://altair-viz.github.io/getting_started/installation.html" class="uri">https://altair-viz.github.io/getting_started/installation.html</a>. If you can get the example on the Altair installation page to work in your Python environment, we will take it from there in the workshop.</p>
