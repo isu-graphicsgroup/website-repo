@@ -1,0 +1,13 @@
+---
+title: Graphical Perception- Theory, Experimentation, and Application to the Development of Graphical Methods
+author: Susan VanderPlas
+date: '2018-04-18'
+slug: graphics-perception
+categories: 
+  - graphics
+tags: []
+---
+
+Cleveland and McGill's examination of the accuracy of perception of different graphical objects underlies the conventional wisdom that guides our selection of plot types and choices. If you've ever wondered why, exactly, pie charts are bad, this paper is the place to start! The paper breaks down graphical perception into a series of elementary tasks which we use while reading charts. We'll discuss the paper and its implications for creating the most effective plots. 
+
+[Link to paper](https://www.jstor.org/stable/pdf/2288400.pdf)
