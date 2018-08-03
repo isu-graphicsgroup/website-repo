@@ -3,8 +3,7 @@ title: Graphical Perception- Theory, Experimentation, and Application to the Dev
 author: Susan VanderPlas
 date: '2018-04-18'
 slug: graphics-perception
-categories: 
-  - graphics
+categories: ["graphics"]
 tags: []
 ---
 
