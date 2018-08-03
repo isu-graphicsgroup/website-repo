@@ -1,0 +1,12 @@
+---
+title: What I did this Summer
+author: All of us
+date: '2018-08-20'
+slug: what-i-did-this-summer
+categories: []
+tags: []
+description: ''
+---
+
+We will talk informally about things graphics we did this summer and during the Joint Statistical Meetings in Vancouver.
+We will also discuss what we want to do for the remainder of the semester. Everybody is welcome!
