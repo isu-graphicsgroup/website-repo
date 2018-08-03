@@ -9,8 +9,4 @@ description: ''
 ---
 
 We will talk informally about things graphics we did this summer and during the Joint Statistical Meetings in Vancouver.
-<<<<<<< HEAD
-We will also discuss what we want to do for the remainder of the semester. Everybody is welcome!
-=======
 We will also discuss what we want to do for the remainder of the semester. Everybody is welcome! 
->>>>>>> update - first post and meeting times
