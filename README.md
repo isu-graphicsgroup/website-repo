@@ -1,6 +1,13 @@
 # Talks
 Talks at the graphics working group
 
+
+- **20 Aug. 2018**:  
+**Presenter:** All of us
+**Title:** "What I did this summer".  
+**Abstract:** We are talking about things graphics we did this summer and/or at the Joint Statistical Meetings in Vancouver.
+We will also discuss plans for the rest of the semester.  
+
 - **18 Apr. 2018**:  
 **Presenter:** Susan VanderPlas  
 **Title:** "Graphical Perception- Theory, Experimentation, and Application to the Development of Graphical Methods".  
