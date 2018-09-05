@@ -3,15 +3,13 @@ Talks at the graphics working group
 
 
 - **7 Sept. 2018**: 
-**Presenter:** Ian Lyttle  
+**Presenter**: Ian Lyttle  
 **Title**: Using vegawidget to render Vega-Lite specifications from R 
 **Abstract**: The Vega-Lite framework offers the traditional grammar of graphics, rendered in the browser. It also offers a first implementation (at least within Vega-Lite) of a grammar of interactive graphics. The vegawidget package (not yet available on CRAN) provides a means to create and render Vega-Lite specifications using R. In this presentation, we will go through a tutorial overview of vegawidget. To participate, you will need only a laptop with a modern browser (such as Chrome or Firefox), and an internet connection. This overview will cover scatterplots, bar charts, layered charts, time-indexed charts, faceted charts, repeated charts, interactive charts, and tooltips (time-permitting). Anything we do not finish during the presentation can be left as an exercise to the reader.  
-
-Links:
-Vega-Lite documentation: https://vega.github.io/vega-lite
-Vega-Lite InfoVis paper: https://idl.cs.washington.edu/files/2017-VegaLite-InfoVis.pdf
-vegawidget documentation: https://vegawidget.github.io/vegawidget
-vegawidget tutorial:  https://ijlyttle.shinyapps.io/vegawidget-overview
+**Links**:  Vega-Lite documentation: https://vega.github.io/vega-lite  
+Vega-Lite InfoVis paper: https://idl.cs.washington.edu/files/2017-VegaLite-InfoVis.pdf  
+vegawidget documentation: https://vegawidget.github.io/vegawidget  
+vegawidget tutorial:  https://ijlyttle.shinyapps.io/vegawidget-overview  
 
 - **31 Aug. 2018**: 
 **Presenter:** Earo Wang  
