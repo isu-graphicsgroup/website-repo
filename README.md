@@ -2,6 +2,13 @@
 Talks at the graphics working group
 
 
+- **14 Sept. 2018**: 
+**Presenter**: Susan VanderPlas   
+**Title**: Eye, Brain, and Mind: Perception and Statistical Graphics   
+**Abstract**: "A picture is worth 1000 words" is as true in scientific communication as it is in other domains, but why are pictures such an effective way to communicate numerical information? In this talk, I'll give an overview of the human visual system, focusing on the areas which influence our perception of graphics. We'll discuss the hardware and "software" of human vision, and then I'll give a brief overview of some of the research on the perception of statistical charts and graphs. If you've ever wondered why pie charts and rainbow color schemes are bad, or how optical illusions impact statistical graphics, this talk is for you!   
+**Links**:  http://srvanderplas.github.io/Presentations/GraphicsGroup/EyeBrainMind.html#1   
+
+
 - **7 Sept. 2018**: 
 **Presenter**: Ian Lyttle   
 **Title**: Using vegawidget to render Vega-Lite specifications from R   
