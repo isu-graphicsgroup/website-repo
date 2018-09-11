@@ -3,7 +3,6 @@ Talks at the graphics working group
 
 
 - **14 Sept. 2018**:  
-
 **Presenter**: Susan VanderPlas   
 **Title**: Eye, Brain, and Mind: Perception and Statistical Graphics   
 **Abstract**: "A picture is worth 1000 words" is as true in scientific communication as it is in other domains, but why are pictures such an effective way to communicate numerical information? In this talk, I'll give an overview of the human visual system, focusing on the areas which influence our perception of graphics. We'll discuss the hardware and "software" of human vision, and then I'll give a brief overview of some of the research on the perception of statistical charts and graphs. If you've ever wondered why pie charts and rainbow color schemes are bad, or how optical illusions impact statistical graphics, this talk is for you!   
@@ -11,7 +10,6 @@ Talks at the graphics working group
 
 
 - **7 Sept. 2018**:  
-
 **Presenter**: Ian Lyttle   
 **Title**: Using vegawidget to render Vega-Lite specifications from R   
 **Abstract**: The Vega-Lite framework offers the traditional grammar of graphics, rendered in the browser. It also offers a first implementation (at least within Vega-Lite) of a grammar of interactive graphics. The vegawidget package (not yet available on CRAN) provides a means to create and render Vega-Lite specifications using R. In this presentation, we will go through a tutorial overview of vegawidget. To participate, you will need only a laptop with a modern browser (such as Chrome or Firefox), and an internet connection. This overview will cover scatterplots, bar charts, layered charts, time-indexed charts, faceted charts, repeated charts, interactive charts, and tooltips (time-permitting). Anything we do not finish during the presentation can be left as an exercise to the reader.  
