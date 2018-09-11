@@ -1,6 +1,6 @@
 ---
 title: Eye, Brain, and Mind: Perception and Statistical Graphics
-author: Susan Vanderplas
+author: Susan VanderPlas
 date: '2018-09-14'
 slug: eye-brain-and-mind-perception-and-statistical-graphics
 categories: []
