@@ -1,6 +1,12 @@
 # Talks
 Talks at the graphics working group
 
+- **28 Sept. 2018**:  
+**Presenter**: Sam Tyner    
+**Title**: "An interactive crash course in bookdown" 
+**Abstract**: The bookdown package makes creating a book within RStudio shockingly easy. However, if you're used to writing in LaTeX, there are some humps and bumps that need to be smoothed out before working with bookdown is as easy as it purports to be. In this talk, we will walk through the knowledge bookdown assumes you have before starting,  its little idiosyncrasies, how it compares to LaTeX, and how to use it to make a highly customized book (e.g. a thesis  *nudge nudge, wink wink*). Come prepared by: bringing your laptop, which has the latest release of RStudio, the bookdown package, a LaTeX distribution, and git installed (install.packages("bookdown"), install.packages('tinytex'); tinytex::install_tinytex()). You should also have a Github account. (Not required but VERY helpful. See happygitwithr.com for help installing/configuring git/github/rstudio for your system.)
+
+
 - **21 Sept. 2018**:  
 **Presenter**: Heike Hofmann    
 **Title**: "Is what we see really there? - A discussion of visual inference"   
