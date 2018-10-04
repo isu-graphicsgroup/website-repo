@@ -1,6 +1,15 @@
 # Talks
 Talks at the graphics working group
 
+- **05 Oct. 2018**:  
+**Presenter**: Susan VanderPlas    
+**Title**: "Clusters Beat Trend? Testing Feature Hierarchy in Statistical Graphics"   
+**Abstract**: Graphics are very effective for communicating numerical information quickly and efficiently, but many of the design choices we make are based on subjective measures, such as personal taste or conventions of the discipline rather than objective criteria. We'll talk briefly about perceptual principles such as preattentive features and gestalt heuristics, and then discuss the design and results of a factorial experiment examining the effect of plot aesthetics such as color and trend lines on participants' assessment of ambiguous data displays. The quantitative and qualitative experimental results strongly suggest that plot aesthetics have a significant impact on the perception of important features in statistical graphics.
+ 
+
+
+
+
 - **28 Sept. 2018**:  
 **Presenter**: Sam Tyner    
 **Title**: "An interactive crash course in bookdown" 
