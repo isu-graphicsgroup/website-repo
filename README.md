@@ -1,6 +1,14 @@
 # Talks
 Talks at the graphics working group
 
+
+- **19 Oct. 2018**:  
+**Presenter**: Heike Hofmann  
+**Title**: "R Packages - DIY"   
+**Abstract**: Almost everybody working in R is working with R packages. The package system in R is a convenient way to bundle your R functions and data and make it available to the wider community. In recent years the support for package development has increased. We will be discussing functionality of RStudio and the devtools package to support R development. We will work on a small R package together as an example. Bring your own code and laptop, and leave with your package! We will also talk about CRAN requirements and how to make sure packages are CRAN-ready.
+
+
+
 - **12 Oct. 2018**:  
 **Presenter**: Katherine Goode and Katie Rey    
 **Title**: "Introducing ggResidpanel: An R Package for Easy Visualization of Residuals"   
