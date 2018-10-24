@@ -2,6 +2,14 @@
 Talks at the graphics working group
 
 
+- **26 Oct. 2018**:  
+**Presenter**: Kiegan Rice  
+**Title**: "An interactive browser for US census data"   
+**Abstract**: Census data provide an important snapshot of information about a country at different times throughout its history. The evolving and adapting nature of census questions creates a complicated data management problem, and this problem is exaggerated when the goal is to answer questions across several years simultaneously. However, recent developments in methods for data analysis and visualization provide a window for developing a more clean interface for census data exploration. I will present a web-based Shiny application that allows users to browse U.S. Census Data across multiple years simultaneously, create a visualization of variables of interest, and download chosen data, organized for further use.  
+
+
+
+
 - **19 Oct. 2018**:  
 **Presenter**: Heike Hofmann  
 **Title**: "R Packages - DIY"   
