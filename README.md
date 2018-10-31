@@ -1,6 +1,13 @@
 # Talks
 Talks at the graphics working group
 
+- **02 Nov. 2018**:  
+**Presenter**: Ian Lyttle  
+**Title**: "Introduction to Tidyeval"   
+**Abstract**: Last year, a new version of dplyr was released. It handles non-standard evaluation using a new framework: tidyeval, developed by Hadley Wickham and Lionel Henry. Since then, tidyeval has been incorporated also into tidyr and ggplot2. Tidyeval will be useful if you write code that uses dplyr on data-frames with column names that you don’t know until runtime. This might be the case if you are writing package functions – this also might be the case if you are writing a shiny app that works on user-uploaded data-frames. If you have any experience using dplyr, you will have no problem to take your first steps into tidyeval. Please being your laptop, we will go through some interactive exercises that you can find here: https://ijlyttle.shinyapps.io/tidyeval/  
+
+
+
 
 - **26 Oct. 2018**:  
 **Presenter**: Kiegan Rice  
