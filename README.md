@@ -1,6 +1,15 @@
 # Talks
 Talks at the graphics working group
 
+
+
+- **09 Nov. 2018**:  
+**Presenter**: Ganesh Krishnan  
+**Title**: "Diagnostics and Decisions in the Bullet Matching pipeline"   
+**Abstract**: Forensic ballistic analysis comprises of identification of whether two bullets come from the same firearm (same-source) or not. This can be thought as an inverse problem to the actual process of firing a bullet, where we have an outcome first, and we then, try to find the source that generated the outcome. Therefore we need a framework of quantifiable steps that takes us from the questioned bullet to a firearm. In this talk I will first give a brief overview of this framework i.e. how different markings are made on the surface of a Bullet, the data we use in our framework, how these markings are identified, extracted and processed from the data, and methods used to come up with a comparison score.  After that I ll demonstrate how we can diagnose problems in the identification process through an interactive Shiny application, and how it can be useful in decision making.  
+
+
+
 - **02 Nov. 2018**:  
 **Presenter**: Ian Lyttle  
 **Title**: "Introduction to Tidyeval"   
