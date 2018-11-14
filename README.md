@@ -2,6 +2,13 @@
 Talks at the graphics working group
 
 
+- **16 Nov. 2018**:  
+**Presenter**: Sam Tyner  
+**Title**: "A survey of US Federal Government data sources"   
+**Abstract**: Did you know that there are thirteen U.S. federal government agencies tasked with collecting statistics? Can you name any? (Besides the Census Bureau...) In addition to thirteen dedicated agencies, the federal government also has over one hundred other programs dedicated to collecting statistics on various goings-on in the United States. These programs range from the more intuitive, like the Agricultural Research Service (part of the USDA), to the quite niche, like the National Cemetery Administration (part of the VA). I'll briefly introduce these agencies and as many of the smaller programs as I can, and provide links to their data warehouse (if applicable). If there is time, I also hope to introduce everyone to some basics about using APIs (application program interface) responsibly to download some of this data from the web. A link with the presentation will be made available to the group on Friday.  
+
+
+
 
 - **09 Nov. 2018**:  
 **Presenter**: Ganesh Krishnan  
