@@ -2,6 +2,15 @@
 Talks at the graphics working group
 
 
+
+
+- **30 Nov. 2018**:  
+**Presenter**: Miranda Tilton   
+**Title**: "CoNNOR: Convolutional Neural Network for Outsole Recognition"     
+**Abstract**: A convolutional neural network (CNN) is a tool for deep learning that uses hierarchical networks of hidden layers to learn patterns in a set of training images and detect the presence of similar features in new images. Shoe outsoles are well-suited to classification with CNNs as they often contain distinct and well-defined shapes, such as circles and quadrilaterals, as well as text and textures. Automatic classification of outsole features can be used to identify the make and model of a shoe, speed up database searches, or determine the relative frequency of a particular outsole or set of features within specific populations. This talk will give an overview of how CNNs classify images, explain how pre-trained CNNs can improve performance on new classification tasks, and discuss the challenges of applying these techniques to approximately 2,000 images of shoe outsoles of various types, brands, and sizes.  
+
+
+
 - **16 Nov. 2018**:  
 **Presenter**: Sam Tyner  
 **Title**: "A survey of US Federal Government data sources"   
