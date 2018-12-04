@@ -2,6 +2,13 @@
 Talks at the graphics working group
 
 
+- **07 Dec. 2018**:  
+**Presenter**: Eric Hare    
+**Title**: "It’s like magick! Automating image processing and graphics design in R"       
+**Abstract**: Most of us are quite familiar with the advantages of automating an analysis using R - If we change the data or tweak some parameters, we need only rerun the script in order to produce new results. But one task that we don’t often think of automating is graphics design and image processing. Maybe we need to combine two images side-by-side, or manipulate the dimensions of a set of images to fit some journal convention. We might choose to open Photoshop or some other image editing software in order to accomplish this. As it turns out, the magick package makes many of these tasks both simple and easy to automate.
+
+In this talk, we will introduce the magick package and its capabilities, and use it to modify, transform, and add effects to images. We will then discuss one of its specific capabilities, OCR (Optical Character Recognition) and play a game we’ve created in Shiny using OCR. You may wish to install magick in advance by following the steps at the beginning of the Vignette here: https://cran.r-project.org/web/packages/magick/vignettes/intro.html  
+
 
 
 - **30 Nov. 2018**:  
