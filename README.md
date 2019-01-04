@@ -9,6 +9,7 @@ Talks at the graphics working group
 
 In this talk, we will introduce the magick package and its capabilities, and use it to modify, transform, and add effects to images. We will then discuss one of its specific capabilities, OCR (Optical Character Recognition) and play a game we’ve created in Shiny using OCR. You may wish to install magick in advance by following the steps at the beginning of the Vignette here: https://cran.r-project.org/web/packages/magick/vignettes/intro.html  
 
+Slides available at: https://omnianalytics.io/isu-graphics/magick/
 
 
 - **30 Nov. 2018**:  
