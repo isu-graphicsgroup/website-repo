@@ -2,6 +2,16 @@
 Talks at the graphics working group
 
 
+- **25 Jan. 2019**:  
+**Presenter**: Heike Hofmann    
+**Title**: "Colors like a Grey Sky WinterR"       
+**Abstract**: To kick off graphics group this semester, we will start with colors and some color themes. Gretchen Albrecht is a New Zealand painter famous for her use of color. Ben Marwick and Di Cook initiated an R package "gretchenalbrecht" as a way to collect and disseminate color palettes based on Gretchen Albrecht's paintings. We will investigate and discuss the package with a graphical twist. We will also discuss an avenue to create color schemes automatically.
+
+There will be baked goods! 
+
+
+
+
 - **07 Dec. 2018**:  
 **Presenter**: Eric Hare    
 **Title**: "It’s like magick! Automating image processing and graphics design in R"       
