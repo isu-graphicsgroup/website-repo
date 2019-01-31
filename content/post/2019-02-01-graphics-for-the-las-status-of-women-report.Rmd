@@ -1,0 +1,13 @@
+---
+title: Graphics for the LAS Status of Women Report
+author: Sam Tyner, Kiegan Rice, Haley Jeppson, Katherine Goode, Miranda Tilton  
+date: '2019-02-01'
+slug: graphics-for-the-las-status-of-women-report
+categories: []
+tags: []
+description: ''
+images:
+  - /2016/10/image.jpg
+---
+
+In this presentation, Sam Tyner, Kiegan Rice, Haley Jeppson, Katherine Goode, and Miranda Tilton will show off their ggplot2 skills and demonstrate how good statistical graphics can help the Iowa State community. As a member of the ISU UCW committee, Sam saw an early draft of the "LAS Status of Women Report." The professor heading the report, Maggie LaWare, asked for input on the graphs in the report, as the current figures were her first foray into making figures in Excel. As a ggplot2 aficionado, Sam volunteered to help out, and thought it would be fun to recruit some others onto the project. Upon seeing the graphics, Kiegan, Haley, Kat, and Miranda jumped at the opportunity to help with the project. We'll each walk through the graphs (or tables) we were tasked with beautifying, and describe how we used our visualization skills acquired in Graphics Group and elsewhere to create striking graphics that accurately represent the status of women in LAS at ISU.  
