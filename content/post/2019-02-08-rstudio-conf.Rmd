@@ -1,0 +1,14 @@
+---
+title: "rstudio::conf(2019L) %>% filter(favorites)"
+author: Ian Lyttle and Haley Jeppson    
+date: '2019-02-08'
+slug: rstudio-conf
+categories: []
+tags: []
+---
+
+We were very fortunate to attend rstudio::conf() last month in Austin; this will be a presentation of our highlights. We will each describe three of our favorite talks (narrowing down to three each was the *most* difficult part). We were not the only graphics-group members there, so we will also invite extemporaneous contributions from our colleagues, as they see fit.
+
+ 
+
+tl;dr: It was super-useful and inclusive  
