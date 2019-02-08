@@ -1,9 +1,19 @@
 # Talks
 Talks at the graphics working group
 
+- **08 Feb. 2019**:  
+**Presenter**: Ian Lyttle and Haley Jeppson    
+**Title**: "rstudio::conf(2019L) %>% filter(favorites)"       
+**Abstract**: We were very fortunate to attend rstudio::conf() last month in Austin; this will be a presentation of our highlights. We will each describe three of our favorite talks (narrowing down to three each was the *most* difficult part). We were not the only graphics-group members there, so we will also invite extemporaneous contributions from our colleagues, as they see fit.
+
+ 
+
+tl;dr: It was super-useful and inclusive.    
 
 
-- **02 Feb. 2019**:  
+
+
+- **01 Feb. 2019**:  
 **Presenter**: Sam Tyner, Kiegan Rice, Haley Jeppson, Katherine Goode, and Miranda Tilton    
 **Title**: "Graphics for the LAS Status of Women Report"       
 **Abstract**: In this presentation, Sam Tyner, Kiegan Rice, Haley Jeppson, Katherine Goode, and Miranda Tilton will show off their ggplot2 skills and demonstrate how good statistical graphics can help the Iowa State community. As a member of the ISU UCW committee, Sam saw an early draft of the "LAS Status of Women Report." The professor heading the report, Maggie LaWare, asked for input on the graphs in the report, as the current figures were her first foray into making figures in Excel. As a ggplot2 aficionado, Sam volunteered to help out, and thought it would be fun to recruit some others onto the project. Upon seeing the graphics, Kiegan, Haley, Kat, and Miranda jumped at the opportunity to help with the project. We'll each walk through the graphs (or tables) we were tasked with beautifying, and describe how we used our visualization skills acquired in Graphics Group and elsewhere to create striking graphics that accurately represent the status of women in LAS at ISU.  
