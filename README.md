@@ -2,6 +2,14 @@
 Talks at the graphics working group
 
 
+
+- **08 Mar. 2019**:  
+**Presenter**: Discussion    
+**Title**: "The Re-Emergence of Emotional Appeals in Interactive Data Visualization"       
+**Abstract**: This week we will be discussing "The Re-Emergence of Emotional Appeals in Interactive Data Visualization" by Charles Kostelnick. The purpose statement of the article follows. "I argue that emotional appeals, prevalent in charts and graphs during the later nineteenth century but largely dormant since then, have rapidly re-emerged in contemporary data visualization. Changing the relationship between designer and user, this new form of data design has intensified the affective impact of data displays by eliciting emotions ranging from excitement and empathy to anxiety and fear."  
+
+
+
 - **01 Mar. 2019**:  
 **Presenter**: Katherine Good    
 **Title**: "An Application of LIME to a Random Forest Model"       
