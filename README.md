@@ -2,6 +2,11 @@
 Talks at the graphics working group
 
 
+- **15 Mar. 2019**:  
+**Presenter**: Samantha Tyner    
+**Title**: "What happens at an unconf should not stay at an unconf"       
+**Abstract**: Last weekend, I attended the Chicago R Unconference, a two day "hackathon" style event for R users and developers. In this talk, I'll discuss the structure and function of an R unconf, and I'll present my project with Angela Li and many others, the Unconf Toolbox, a Github organization providing structure and guidance so that future organizers have a guide for organizing an unconf.    
+
 
 - **08 Mar. 2019**:  
 **Presenter**: Discussion    
