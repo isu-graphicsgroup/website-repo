@@ -2,6 +2,14 @@
 Talks at the graphics working group
 
 
+- **5 Apr. 2019**:  
+**Presenter**: Chance Johnstone    
+**Title**: "Data Visualization in Sports: A Case Study with NCAA Women’s Hockey Goaltending"       
+**Abstract**: One of the more recognizable terms associated with analysis in sports is “sabermetrics”. Made famous in part by Bill James in the 1970s, and executed with some success by Billie Beane and the 2001 Oakland Athletics, it has changed the way people view sports. Sports are no longer just about intuition. Following this paradigm shift, the use of analytics has grown tremendously within Baseball, and has even made its way into other sports, most prominently with Football and Basketball. Ideas like “win-shares”, “plus-minus”, “expected goals” have permeated sports culture.
+During this session we will focus our discussion on analysis within a Hockey scope. We will begin by identifying and discussing current literature on statistics as it relates to the sport, and follow that with the introduction of a tool that utilizes the googlesheets() and shiny() packages, among others, to provide visualizations and metrics related to NCAA Women’s Hockey. Specifically, the tool provides training insight, and game-to-game decision support related to the goaltender position.   
+
+
+
 - **15 Mar. 2019**:  
 **Presenter**: Samantha Tyner    
 **Title**: "What happens at an unconf should not stay at an unconf"       
