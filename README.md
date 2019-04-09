@@ -2,6 +2,17 @@
 Talks at the graphics working group
 
 
+
+- **12 Apr. 2019**:  
+**Presenter**: Eric Hare    
+**Title**: "Building a Trivia Bot that Outperforms Humans with Google’s BERT"       
+**Abstract**: One of the first things we need when we build statistical models is a rich set of training data. Creating a labeled training dataset is feasible when the dataset has hundreds, or maybe even thousands of rows. But the top-performing models on many machine learning tasks do best with millions or even billions of examples. How do we automatically build a large training set with billions of examples? Enter BERT, Google’s new Natural Language Processing (NLP) language model. BERT exploits the key fact that the internet is home to massive amounts of unstructured text data that we can easily incorporate into an NLP model. But it goes a step further: BERT automatically masks particular words in sentences, and uses this to create a training dataset automatically. For example:  
+Input: The woman went to the [MASK1]. She bought a [MASK2] of milk.  
+Labels: [MASK1] = store; [MASK]2 = gallon  
+
+In this talk, I will describe at a high level the BERT language representation model, and how it can be used to train state-of-the-art NLP models. I will then demo the question-answering (trivia) bot that we’ve trained with BERT which, by some metrics, can out perform humans on particular question-answering challenges.   
+
+
 - **5 Apr. 2019**:  
 **Presenter**: Chance Johnstone    
 **Title**: "Data Visualization in Sports: A Case Study with NCAA Women’s Hockey Goaltending"       
