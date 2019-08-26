@@ -1,5 +1,5 @@
 ---
-title: "Graphics for the LAS Status of Women Report""
+title: "Graphics for the LAS Status of Women Report"
 author: Sam Tyner, Kiegan Rice, Haley Jeppson, Katherine Goode, Miranda Tilton  
 date: '2019-02-01'
 slug: graphics-for-the-las-status-of-women-report
