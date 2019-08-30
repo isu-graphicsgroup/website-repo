@@ -1,7 +1,10 @@
 # Talks
 Talks at the graphics working group
 
-
+- **29 Aug. 2019**:  
+**Presenter**: Everyone 
+**Title**: 'Graphics Group on "Vacation"'    
+**Abstract**: While summer may be a time to relax and enjoy the sun, it is also a time to enjoy working on research without the stress of classes (possibly while also sitting outside and basking in the sun). In this talk, returning graphics group participants will tell about summer research projects, conferences and workshops attended, and internship experiences. We hope this will allow everyone to learn about the work done by others, provide some inspiration going into the fall semester, and allow new attendees to get an idea of the breadth of work done by individuals in the graphics group.
 
 - **12 Apr. 2019**:  
 **Presenter**: Eric Hare    
