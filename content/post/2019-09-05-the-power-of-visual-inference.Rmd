@@ -8,3 +8,5 @@ tags: []
 ---
 
 I will talk about visual hypothesis testing using lineups, including how we model the process of choosing  a plot from a lineup, different types of lineups, and how we estimate a lineup's difficulty. There will also be a lot of pictures of puppies!
+
+The slides can be found [here](http://srvanderplas.github.io/Presentations/GraphicsGroup/20190905-VisualInference/#1).
