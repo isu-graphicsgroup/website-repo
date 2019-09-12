@@ -3,7 +3,7 @@ title: 'Graphics Group on "Vacation"'
 author: 'Everyone!'
 date: '2019-08-29'
 slug: 'graphics-group-on-vacation'
-image: 'img/vacation-frenchie.png'
+image: 'post/2019-08-29-graphics-group-on-vacation_files/vacation-frenchie.png'
 ---
 
 ![](/post/2019-08-29-graphics-group-on-vacation_files/vacation-frenchie.png){width=80%}
