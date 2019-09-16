@@ -30,8 +30,7 @@ Talks at the graphics working group
 Input: The woman went to the [MASK1]. She bought a [MASK2] of milk.  
 Labels: [MASK1] = store; [MASK]2 = gallon  
 
-In this talk, I will describe at a high level the BERT language representation model, and how it can be used to train state-of-the-art NLP models. I will then demo the question-answering (trivia) bot that we’ve trained with BERT which, by some metrics, can out perform humans on particular question-answering challenges.   
-
+    In this talk, I will describe at a high level the BERT language representation model, and how it can be used to train state-of-the-art NLP models. I will then demo the question-answering (trivia) bot that we’ve trained with BERT which, by some metrics, can out perform humans on particular question-answering challenges.   
 
 - **5 Apr. 2019**:  
 **Presenter**: Chance Johnstone    
@@ -39,28 +38,21 @@ In this talk, I will describe at a high level the BERT language representation m
 **Abstract**: One of the more recognizable terms associated with analysis in sports is “sabermetrics”. Made famous in part by Bill James in the 1970s, and executed with some success by Billie Beane and the 2001 Oakland Athletics, it has changed the way people view sports. Sports are no longer just about intuition. Following this paradigm shift, the use of analytics has grown tremendously within Baseball, and has even made its way into other sports, most prominently with Football and Basketball. Ideas like “win-shares”, “plus-minus”, “expected goals” have permeated sports culture.
 During this session we will focus our discussion on analysis within a Hockey scope. We will begin by identifying and discussing current literature on statistics as it relates to the sport, and follow that with the introduction of a tool that utilizes the googlesheets() and shiny() packages, among others, to provide visualizations and metrics related to NCAA Women’s Hockey. Specifically, the tool provides training insight, and game-to-game decision support related to the goaltender position.   
 
-
-
 - **15 Mar. 2019**:  
 **Presenter**: Samantha Tyner    
 **Title**: "What happens at an unconf should not stay at an unconf"       
 **Abstract**: Last weekend, I attended the Chicago R Unconference, a two day "hackathon" style event for R users and developers. In this talk, I'll discuss the structure and function of an R unconf, and I'll present my project with Angela Li and many others, the Unconf Toolbox, a Github organization providing structure and guidance so that future organizers have a guide for organizing an unconf.    
 
-
 - **08 Mar. 2019**:  
 **Presenter**: Discussion    
-**Title**: "The Re-Emergence of Emotional Appeals in Interactive Data Visualization"       
+**Title**: "The Re-Emergence of Emotional Appeals in Interactive Data Visualization"
 **Abstract**: This week we will be discussing "The Re-Emergence of Emotional Appeals in Interactive Data Visualization" by Charles Kostelnick. The purpose statement of the article follows. "I argue that emotional appeals, prevalent in charts and graphs during the later nineteenth century but largely dormant since then, have rapidly re-emerged in contemporary data visualization. Changing the relationship between designer and user, this new form of data design has intensified the affective impact of data displays by eliciting emotions ranging from excitement and empathy to anxiety and fear."  
-
-
 
 - **01 Mar. 2019**:  
 **Presenter**: Katherine Goode    
 **Title**: "An Application of LIME to a Random Forest Model"       
 **Abstract**: Random forests are known for their accurate predictive abilities, but they are a part of the family of machine learning models that lack interpretability. A technique called LIME was developed to provide local interpretations for black-box predictive models. In this talk, I will explain the LIME procedure and show an application of LIME to predictions from a random forest model fit to a bullet matching dataset. I will present a Shiny app I created to view the LIME explanations. Additionally, I will discuss the issues that I have encountered while working with LIME, some of the attempts at a solution, and future directions for my research.  
 **Slides**: https://goodekat.github.io/presentations/graphics_group/03-applying_lime_to_random_forest/slides.html  
-
-
 
 - **15 Feb. 2019**:  
 **Presenter**: Susan VanderPlas    
@@ -72,7 +64,6 @@ During this session we will focus our discussion on analysis within a Hockey sco
     Papers:  
     McCabe, D. P., & Castel, A. D. (2008). Seeing is believing: The effect of brain images on judgments of scientific reasoning. Cognition, 107(1), 343–352.  
     Newman, E. J., Garry, M., Bernstein, D. M., Kantner, J., & Lindsay, D. S. (2012). Nonprobative photographs (or words) inflate truthiness. Psychonomic Bulletin & Review, 19(5), 969–974.  
-
 
 - **08 Feb. 2019**:  
 **Presenter**: Ian Lyttle and Haley Jeppson    
