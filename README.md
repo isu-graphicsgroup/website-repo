@@ -55,7 +55,7 @@ During this session we will focus our discussion on analysis within a Hockey sco
 
 
 - **01 Mar. 2019**:  
-**Presenter**: Katherine Good    
+**Presenter**: Katherine Goode    
 **Title**: "An Application of LIME to a Random Forest Model"       
 **Abstract**: Random forests are known for their accurate predictive abilities, but they are a part of the family of machine learning models that lack interpretability. A technique called LIME was developed to provide local interpretations for black-box predictive models. In this talk, I will explain the LIME procedure and show an application of LIME to predictions from a random forest model fit to a bullet matching dataset. I will present a Shiny app I created to view the LIME explanations. Additionally, I will discuss the issues that I have encountered while working with LIME, some of the attempts at a solution, and future directions for my research.  
 **Slides**: https://goodekat.github.io/presentations/graphics_group/03-applying_lime_to_random_forest/slides.html  
@@ -67,11 +67,11 @@ During this session we will focus our discussion on analysis within a Hockey sco
 **Title**: "Truthiness: Going with your gut"       
 **Abstract**: Graphics are incredibly useful information conduits, but what effects do extraneous graphics have on someone's ability to evaluate factual statements? In this talk, I'll discuss the "truthiness effect" and talk about what pictures and charts have to do with Stephen Colbert and science communication. I'll discuss results from two cognitive psychology studies detailing the truthiness effect and some initial data from a study I'm conducting to explore whether this effect extends to statistical charts and graphics.  
 
-Slide link: http://srvanderplas.github.io/Presentations/GraphicsGroup/201902-Truthiness/slides.html#1  
+    Slide link: http://srvanderplas.github.io/Presentations/GraphicsGroup/201902-Truthiness/slides.html#1  
 
-Papers:  
-McCabe, D. P., & Castel, A. D. (2008). Seeing is believing: The effect of brain images on judgments of scientific reasoning. Cognition, 107(1), 343–352.  
-Newman, E. J., Garry, M., Bernstein, D. M., Kantner, J., & Lindsay, D. S. (2012). Nonprobative photographs (or words) inflate truthiness. Psychonomic Bulletin & Review, 19(5), 969–974.  
+    Papers:  
+    McCabe, D. P., & Castel, A. D. (2008). Seeing is believing: The effect of brain images on judgments of scientific reasoning. Cognition, 107(1), 343–352.  
+    Newman, E. J., Garry, M., Bernstein, D. M., Kantner, J., & Lindsay, D. S. (2012). Nonprobative photographs (or words) inflate truthiness. Psychonomic Bulletin & Review, 19(5), 969–974.  
 
 
 - **08 Feb. 2019**:  
@@ -79,76 +79,53 @@ Newman, E. J., Garry, M., Bernstein, D. M., Kantner, J., & Lindsay, D. S. (2012)
 **Title**: "rstudio::conf(2019L) %>% filter(favorites)"       
 **Abstract**: We were very fortunate to attend rstudio::conf() last month in Austin; this will be a presentation of our highlights. We will each describe three of our favorite talks (narrowing down to three each was the *most* difficult part). We were not the only graphics-group members there, so we will also invite extemporaneous contributions from our colleagues, as they see fit.
 
- 
-
-tl;dr: It was super-useful and inclusive.    
-
-
-
+    tl;dr: It was super-useful and inclusive.    
 
 - **01 Feb. 2019**:  
 **Presenter**: Sam Tyner, Kiegan Rice, Haley Jeppson, Katherine Goode, and Miranda Tilton    
 **Title**: "Graphics for the LAS Status of Women Report"       
 **Abstract**: In this presentation, Sam Tyner, Kiegan Rice, Haley Jeppson, Katherine Goode, and Miranda Tilton will show off their ggplot2 skills and demonstrate how good statistical graphics can help the Iowa State community. As a member of the ISU UCW committee, Sam saw an early draft of the "LAS Status of Women Report." The professor heading the report, Maggie LaWare, asked for input on the graphs in the report, as the current figures were her first foray into making figures in Excel. As a ggplot2 aficionado, Sam volunteered to help out, and thought it would be fun to recruit some others onto the project. Upon seeing the graphics, Kiegan, Haley, Kat, and Miranda jumped at the opportunity to help with the project. We'll each walk through the graphs (or tables) we were tasked with beautifying, and describe how we used our visualization skills acquired in Graphics Group and elsewhere to create striking graphics that accurately represent the status of women in LAS at ISU.  
 
-
 - **25 Jan. 2019**:  
 **Presenter**: Heike Hofmann    
 **Title**: "Colors like a Grey Sky WinterR"       
 **Abstract**: To kick off graphics group this semester, we will start with colors and some color themes. Gretchen Albrecht is a New Zealand painter famous for her use of color. Ben Marwick and Di Cook initiated an R package "gretchenalbrecht" as a way to collect and disseminate color palettes based on Gretchen Albrecht's paintings. We will investigate and discuss the package with a graphical twist. We will also discuss an avenue to create color schemes automatically.
 
-There will be baked goods! 
-
-
-
+    There will be baked goods! 
 
 - **07 Dec. 2018**:  
 **Presenter**: Eric Hare    
-**Title**: "It’s like magick! Automating image processing and graphics design in R"       
+**Title**: "It’s like magick! Automating image processing and graphics design in R"
 **Abstract**: Most of us are quite familiar with the advantages of automating an analysis using R - If we change the data or tweak some parameters, we need only rerun the script in order to produce new results. But one task that we don’t often think of automating is graphics design and image processing. Maybe we need to combine two images side-by-side, or manipulate the dimensions of a set of images to fit some journal convention. We might choose to open Photoshop or some other image editing software in order to accomplish this. As it turns out, the magick package makes many of these tasks both simple and easy to automate.
 
-In this talk, we will introduce the magick package and its capabilities, and use it to modify, transform, and add effects to images. We will then discuss one of its specific capabilities, OCR (Optical Character Recognition) and play a game we’ve created in Shiny using OCR. You may wish to install magick in advance by following the steps at the beginning of the Vignette here: https://cran.r-project.org/web/packages/magick/vignettes/intro.html  
-
-Slides available at: https://omnianalytics.io/isu-graphics/magick/
-
+    In this talk, we will introduce the magick package and its capabilities, and use it to modify, transform, and add effects to images. We will then discuss one of its specific capabilities, OCR (Optical Character Recognition) and play a game we’ve created in Shiny using OCR. You may wish to install magick in advance by following the steps at the beginning of the Vignette here: https://cran.r-project.org/web/packages/magick/vignettes/intro.html  
+    
+    Slides available at: https://omnianalytics.io/isu-graphics/magick/
 
 - **30 Nov. 2018**:  
 **Presenter**: Miranda Tilton   
 **Title**: "CoNNOR: Convolutional Neural Network for Outsole Recognition"     
 **Abstract**: A convolutional neural network (CNN) is a tool for deep learning that uses hierarchical networks of hidden layers to learn patterns in a set of training images and detect the presence of similar features in new images. Shoe outsoles are well-suited to classification with CNNs as they often contain distinct and well-defined shapes, such as circles and quadrilaterals, as well as text and textures. Automatic classification of outsole features can be used to identify the make and model of a shoe, speed up database searches, or determine the relative frequency of a particular outsole or set of features within specific populations. This talk will give an overview of how CNNs classify images, explain how pre-trained CNNs can improve performance on new classification tasks, and discuss the challenges of applying these techniques to approximately 2,000 images of shoe outsoles of various types, brands, and sizes.  
 
-
-
 - **16 Nov. 2018**:  
 **Presenter**: Sam Tyner  
 **Title**: "A survey of US Federal Government data sources"   
-**Abstract**: Did you know that there are thirteen U.S. federal government agencies tasked with collecting statistics? Can you name any? (Besides the Census Bureau...) In addition to thirteen dedicated agencies, the federal government also has over one hundred other programs dedicated to collecting statistics on various goings-on in the United States. These programs range from the more intuitive, like the Agricultural Research Service (part of the USDA), to the quite niche, like the National Cemetery Administration (part of the VA). I'll briefly introduce these agencies and as many of the smaller programs as I can, and provide links to their data warehouse (if applicable). If there is time, I also hope to introduce everyone to some basics about using APIs (application program interface) responsibly to download some of this data from the web. A link with the presentation will be made available to the group on Friday.  
-
-
-
+**Abstract**: Did you know that there are thirteen U.S. federal government agencies tasked with collecting statistics? Can you name any? (Besides the Census Bureau...) In addition to thirteen dedicated agencies, the federal government also has over one hundred other programs dedicated to collecting statistics on various goings-on in the United States. These programs range from the more intuitive, like the Agricultural Research Service (part of the USDA), to the quite niche, like the National Cemetery Administration (part of the VA). I'll briefly introduce these agencies and as many of the smaller programs as I can, and provide links to their data warehouse (if applicable). If there is time, I also hope to introduce everyone to some basics about using APIs (application program interface) responsibly to download some of this data from the web. A link with the presentation will be made available to the group on Friday.
 
 - **09 Nov. 2018**:  
 **Presenter**: Ganesh Krishnan  
 **Title**: "Diagnostics and Decisions in the Bullet Matching pipeline"   
 **Abstract**: Forensic ballistic analysis comprises of identification of whether two bullets come from the same firearm (same-source) or not. This can be thought as an inverse problem to the actual process of firing a bullet, where we have an outcome first, and we then, try to find the source that generated the outcome. Therefore we need a framework of quantifiable steps that takes us from the questioned bullet to a firearm. In this talk I will first give a brief overview of this framework i.e. how different markings are made on the surface of a Bullet, the data we use in our framework, how these markings are identified, extracted and processed from the data, and methods used to come up with a comparison score.  After that I ll demonstrate how we can diagnose problems in the identification process through an interactive Shiny application, and how it can be useful in decision making.  
 
-
-
 - **02 Nov. 2018**:  
 **Presenter**: Ian Lyttle  
 **Title**: "Introduction to Tidyeval"   
 **Abstract**: Last year, a new version of dplyr was released. It handles non-standard evaluation using a new framework: tidyeval, developed by Hadley Wickham and Lionel Henry. Since then, tidyeval has been incorporated also into tidyr and ggplot2. Tidyeval will be useful if you write code that uses dplyr on data-frames with column names that you don’t know until runtime. This might be the case if you are writing package functions – this also might be the case if you are writing a shiny app that works on user-uploaded data-frames. If you have any experience using dplyr, you will have no problem to take your first steps into tidyeval. Please being your laptop, we will go through some interactive exercises that you can find here: https://ijlyttle.shinyapps.io/tidyeval/  
 
-
-
-
 - **26 Oct. 2018**:  
 **Presenter**: Kiegan Rice  
 **Title**: "An interactive browser for US census data"   
 **Abstract**: Census data provide an important snapshot of information about a country at different times throughout its history. The evolving and adapting nature of census questions creates a complicated data management problem, and this problem is exaggerated when the goal is to answer questions across several years simultaneously. However, recent developments in methods for data analysis and visualization provide a window for developing a more clean interface for census data exploration. I will present a web-based Shiny application that allows users to browse U.S. Census Data across multiple years simultaneously, create a visualization of variables of interest, and download chosen data, organized for further use.  
-
-
-
 
 - **19 Oct. 2018**:  
 **Presenter**: Heike Hofmann  
