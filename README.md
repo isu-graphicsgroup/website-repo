@@ -1,6 +1,23 @@
 # Talks
 Talks at the graphics working group
 
+- **19 Sep. 2019**:  
+**Presenter**: Kiegan Rice
+**Title**: 'Visualizing Variability in Bullet Scans'    
+**Abstract**: The field of forensic firearms analysis involves the visual comparison of patterns engraved on bullets by the barrel of a gun. In recent years, computer vision techniques have been developed to complete these visual comparisons in an automated fashion. These methods, such as the one developed by Heike Hofmann and Eric Hare, are based on high-resolution images of bullet lands. We collected repeated scans of a small set of bullets in order to study the variability introduced by human involvement in the scanning process. Visualizing the variability in these data has proven to be a very interesting challenge! I will briefly detail the bullet matching process and our variability study, and share some ongoing attempts to effectively visualize variability in the data.
+
+- **12 Sep. 2019**:  
+**Presenter**: Heike Hofmann
+**Title**: 'Boxes and Pies - The Statistical Atlas of 1870'    
+**Abstract**: The Statistical Atlases of 1870 to 1890 are wonderful sources of statistical graphics, created in a time when conventions for statistical graphics were still very much in flux. We will be looking at some examples of visualizations from the 1870s - some of which will look very familiar, discuss the charts from their cognitive perspective, and look into re-designs based on available Census data.
+
+There will be cake - at the point of writing, the baker is not certain about pie versus box shape.
+
+- **05 Sep. 2019**:  
+**Presenter**: Susan Vanderplas
+**Title**: 'The Power of Visual Inference'    
+**Abstract**: I will talk about visual hypothesis testing using lineups, including how we model the process of choosing  a plot from a lineup, different types of lineups, and how we estimate a lineup's difficulty. There will also be a lot of pictures of puppies!
+
 - **29 Aug. 2019**:  
 **Presenter**: Everyone 
 **Title**: 'Graphics Group on "Vacation"'    
