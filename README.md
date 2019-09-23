@@ -1,6 +1,13 @@
 # Talks
 Talks at the graphics working group
 
+- **26 Sep. 2019**:  
+**Presenter**: Yawei Ge
+**Title**: 'Generalized Parallel Coordinate Plot with ggpcp'    
+**Abstract**: Parallel coordinate plot is well used to show data with dimensions more than three, which provides an elegant way of displaying data with such many dimensions by representing each variable by an axis. Parallel coordinate plot works well with continuous variables but not categorical variables. Some improved versions of parallel coordinate plots were introduced to show categorical variables in a similar way as in numeric variable cases, such as parallel set plots, hammock plots and common angle plots. But these kinds of parallel coordinate plots don't provide a good way to combine numerical and categorical variables in a single plot. We introduce the generalized parallel coordinate plot to include both types of variables in a single plot and provide a set of solutions to the problems coming in the process. We also introduce the package ggpcp to implement the generalized parallel coordinate plot, which is built under the ggplot2 framework.
+
+See the GitHub repo for ggpcp: https://github.com/yaweige/ggpcp
+
 - **19 Sep. 2019**:  
 **Presenter**: Kiegan Rice
 **Title**: 'Visualizing Variability in Bullet Scans'    
