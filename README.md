@@ -8,7 +8,7 @@ Talks at the graphics working group
 
     Statistical graphics are commonly used for exploratory data analysis and model checking, however,  they are often criticized due to the subjectivity involved in their interpretation. Seasoned analysts have built up their intuition over years to be able to interpret single statistics graphics and express their uncertainty related to their decisions. Less seasoned analysts may struggle with interpretations or face increased skepticism.  Recently, a protocol that puts graphics into an inferential framework has been developed, allowing analysts to understand the extent to  which perceived structure in a plot occurs by chance. This inferential framework treats plots as statistics, which casts graphics in a framework amenable to automatic evaluation.
 
-    This talk will review  the development and implementation of the lineup protocol for visual inference, discuss it's applications, and explore how statistical learning models and computer vision models might be used to automatically assess plots.
+    This talk will review  the development and implementation of the lineup protocol for visual inference, discuss its applications, and explore how statistical learning models and computer vision models might be used to automatically assess plots.
 
 - **26 Sep. 2019**:  
 **Presenter**: Yawei Ge  
