@@ -1,32 +1,41 @@
 # Talks
 Talks at the graphics working group
 
+- **3 Oct. 2019**:  
+**Presenter**: Adam Loy  
+**Title**: 'Exploring automatic evaluation of statistical graphics'    
+**Abstract**: We live in a world where both statistical learning models and computer visions models allow many tasks to be automated, ranging from detecting fraudulent credit card transactions to self-driving cars. Based on these advances, it seems reasonable to ask whether we can automate the evaluation of common statistical graphics, such as residual plots.
+
+    Statistical graphics are commonly used for exploratory data analysis and model checking, however,  they are often criticized due to the subjectivity involved in their interpretation. Seasoned analysts have built up their intuition over years to be able to interpret single statistics graphics and express their uncertainty related to their decisions. Less seasoned analysts may struggle with interpretations or face increased skepticism.  Recently, a protocol that puts graphics into an inferential framework has been developed, allowing analysts to understand the extent to  which perceived structure in a plot occurs by chance. This inferential framework treats plots as statistics, which casts graphics in a framework amenable to automatic evaluation.
+
+    This talk will review  the development and implementation of the lineup protocol for visual inference, discuss it's applications, and explore how statistical learning models and computer vision models might be used to automatically assess plots.
+
 - **26 Sep. 2019**:  
-**Presenter**: Yawei Ge
+**Presenter**: Yawei Ge  
 **Title**: 'Generalized Parallel Coordinate Plot with ggpcp'    
 **Abstract**: Parallel coordinate plot is well used to show data with dimensions more than three, which provides an elegant way of displaying data with such many dimensions by representing each variable by an axis. Parallel coordinate plot works well with continuous variables but not categorical variables. Some improved versions of parallel coordinate plots were introduced to show categorical variables in a similar way as in numeric variable cases, such as parallel set plots, hammock plots and common angle plots. But these kinds of parallel coordinate plots don't provide a good way to combine numerical and categorical variables in a single plot. We introduce the generalized parallel coordinate plot to include both types of variables in a single plot and provide a set of solutions to the problems coming in the process. We also introduce the package ggpcp to implement the generalized parallel coordinate plot, which is built under the ggplot2 framework.
 
-See the GitHub repo for ggpcp: https://github.com/yaweige/ggpcp
+    See the GitHub repo for ggpcp: https://github.com/yaweige/ggpcp
 
 - **19 Sep. 2019**:  
-**Presenter**: Kiegan Rice
+**Presenter**: Kiegan Rice  
 **Title**: 'Visualizing Variability in Bullet Scans'    
 **Abstract**: The field of forensic firearms analysis involves the visual comparison of patterns engraved on bullets by the barrel of a gun. In recent years, computer vision techniques have been developed to complete these visual comparisons in an automated fashion. These methods, such as the one developed by Heike Hofmann and Eric Hare, are based on high-resolution images of bullet lands. We collected repeated scans of a small set of bullets in order to study the variability introduced by human involvement in the scanning process. Visualizing the variability in these data has proven to be a very interesting challenge! I will briefly detail the bullet matching process and our variability study, and share some ongoing attempts to effectively visualize variability in the data.
 
 - **12 Sep. 2019**:  
-**Presenter**: Heike Hofmann
+**Presenter**: Heike Hofmann  
 **Title**: 'Boxes and Pies - The Statistical Atlas of 1870'    
 **Abstract**: The Statistical Atlases of 1870 to 1890 are wonderful sources of statistical graphics, created in a time when conventions for statistical graphics were still very much in flux. We will be looking at some examples of visualizations from the 1870s - some of which will look very familiar, discuss the charts from their cognitive perspective, and look into re-designs based on available Census data.
 
     There will be cake - at the point of writing, the baker is not certain about pie versus box shape.
 
 - **05 Sep. 2019**:  
-**Presenter**: Susan Vanderplas
+**Presenter**: Susan Vanderplas  
 **Title**: 'The Power of Visual Inference'    
 **Abstract**: I will talk about visual hypothesis testing using lineups, including how we model the process of choosing  a plot from a lineup, different types of lineups, and how we estimate a lineup's difficulty. There will also be a lot of pictures of puppies!
 
 - **29 Aug. 2019**:  
-**Presenter**: Everyone 
+**Presenter**: Everyone  
 **Title**: 'Graphics Group on "Vacation"'    
 **Abstract**: While summer may be a time to relax and enjoy the sun, it is also a time to enjoy working on research without the stress of classes (possibly while also sitting outside and basking in the sun). In this talk, returning graphics group participants will tell about summer research projects, conferences and workshops attended, and internship experiences. We hope this will allow everyone to learn about the work done by others, provide some inspiration going into the fall semester, and allow new attendees to get an idea of the breadth of work done by individuals in the graphics group.
 
