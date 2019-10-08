@@ -1,6 +1,11 @@
 # Talks
 Talks at the graphics working group
 
+- **10 Oct. 2019**:  
+**Presenter**: Yihui Xie  
+**Title**: 'The fun with CSS and JavaScript, joined by the simplicity of Markdown'      
+**Abstract**: I briefly talked about pagedown at rstudio::conf 2019 (https://resources.rstudio.com/rstudio-conf-2019/pagedown-creating-beautiful-pdfs-with-r-markdown-and-css) but did not explain the details due to the length of the talk. This time I will talk about it in depth. I will also demonstrate my last R package rolldown for storytelling with R Markdown (https://github.com/yihui/rolldown).  
+
 - **3 Oct. 2019**:  
 **Presenter**: Adam Loy  
 **Title**: 'Exploring automatic evaluation of statistical graphics'    
