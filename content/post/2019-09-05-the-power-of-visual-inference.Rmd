@@ -3,9 +3,11 @@ title: The Power of Visual Inference
 author: Susan Vanderplas
 date: '2019-09-05'
 slug: the-power-of-visual-inference
-categories: []
-tags: []
+images:
+  - "http://srvanderplas.github.io/Presentations/GraphicsGroup/20190905-VisualInference/lineups/puli-null_0.jpg"
 ---
+
+![](http://srvanderplas.github.io/Presentations/GraphicsGroup/20190905-VisualInference/lineups/puli-null_0.jpg){width=60%}
 
 I will talk about visual hypothesis testing using lineups, including how we model the process of choosing  a plot from a lineup, different types of lineups, and how we estimate a lineup's difficulty. There will also be a lot of pictures of puppies!
 
