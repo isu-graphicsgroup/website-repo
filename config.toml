@@ -86,7 +86,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
   [params.sidebar]
     # Optional about block for sidebar (can be Markdown)
-    about = "Links to slides of our most recent (or more available) talks. We are going to meet on Thursdays at 4:10 pm this semester (Fall 2019) in 2113 Snedecor. There will be cookies, just bring a beverage of your choice. "
+    about = "We meet on Thursdays at 4:10 pm in 2113 Snedecor (Fall 2019). Please join us for presentations on statistical graphics and computational tools. There will be treats! <br> <br> Information about our weekly talks can be found on this website."
 
     # How many posts to show on the sidebar (Default: 5)
     num_recent_posts = 3
