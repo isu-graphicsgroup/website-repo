@@ -1,8 +1,13 @@
 # Talks
 Talks at the graphics working group
 
+- **24 Oct. 2019**:  
+**Presenter**: Xiaodan Lyu  
+**Title**: 'Interactive Data Visualization in Production'   
+**Abstract**:  Interactive data visualization (dashboards) are often used to show important measures or key performance indicators (KPI) at a comprehensible level of aggregation and are continuously updated as new data are added to the database. In this talk, I'll present a full procedure of developing a dashboard from data engineering to data visualization taken from my summer internship as a visualization analyst at Autodesk. Some recommended practices such as choosing appropriate charts and designing effective dashboards will be discussed. I'll also share my experience in communicating statistical models with non-tech decision-makers.  
+
 - **17 Oct. 2019**:  
-**Presenter**: Fan Dai
+**Presenter**: Fan Dai  
 **Title**: 'Three-dimensional Radial Visualization of High-dimensional Continuous or Discrete Datasets'   
 **Abstract**: We develop methodologies for 3D radial visualization of high-dimensional datasets. Our display engine is called RadViz3D and extends the classic RadViz that visualizes  multivariate data in the 2D plane by mapping every record to a point inside the unit circle. The classic RadViz display has equally-spaced anchor points on the unit circle, with each of them associated with an attribute or feature of the dataset. RadViz3D obtains equi-spaced anchor points exactly for the five Platonic solids and approximately for the other cases via a  Fibonacci grid. We show that distributing anchor points at least approximately uniformly on the 3D unit sphere provides a better visualization %with less effects of ordering than in 2D. We also propose a Max-Ratio Projection (MRP) method that utilizes the group information in high dimensions to provide distinctive lower-dimensional projections that are then displayed using Radviz3D. Our methodology is extended to datasets with discrete and mixed features where a generalized distributional transform is used in conjunction with copula models before applying MRP and RadViz3D visualization.
 
