@@ -4,10 +4,10 @@ author: Adam Loy
 date: '2019-10-03'
 slug: exploring-automatic-evaluation-of-statistical-graphics
 images:
-  - "/post/lineup-diagnostics.png"
+  - "/post/2019-10-03-adam.png"
 ---
 
-![](/post/lineup-diagnostics.png){width=75%}
+![](/post/2019-10-03-adam.png){width=75%}
 
 We live in a world where both statistical learning models and computer visions models allow many tasks to be automated, ranging from detecting fraudulent credit card transactions to self-driving cars. Based on these advances, it seems reasonable to ask whether we can automate the evaluation of common statistical graphics, such as residual plots.
 

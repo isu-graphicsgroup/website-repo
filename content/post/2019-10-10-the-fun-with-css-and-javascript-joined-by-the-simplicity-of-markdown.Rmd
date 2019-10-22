@@ -4,10 +4,10 @@ author: Yihui Xie
 date: '2019-10-10'
 slug: the-fun-with-css-and-javascript-joined-by-the-simplicity-of-markdown
 images:
-  - "/post/pagedown.png"
+  - "/post/2019-10-10-yihui.png"
 ---
 
-![](/post/pagedown.png)
+![](/post/2019-10-10-yihui.png)
 
 I briefly talked about pagedown at rstudio::conf 2019 (https://resources.rstudio.com/rstudio-conf-2019/pagedown-creating-beautiful-pdfs-with-r-markdown-and-css) but did not explain the details due to the length of the talk. This time I will talk about it in depth. I will also demonstrate my last R package rolldown for storytelling with R Markdown (https://github.com/yihui/rolldown).  
 
