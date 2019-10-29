@@ -1,6 +1,11 @@
 # Talks
 Talks at the graphics working group
 
+- **31 Oct. 2019**:  
+**Presenter**: Katherine Goode  
+**Title**: 'gganimate (with a spooky twist)'   
+**Abstract**: gganimate allows for the animation of ggplot2 graphics. The package has been around for a while, but it has been updated to allow for easier transitions from static ggplot2 graphic to animated versions. This talk is meant to be an interactive tutorial on how to use the updated version of gganimate. You are encouraged to bring a laptop to follow along. Since the talk will be given on Halloween, spooky datasets will be used to demonstrate the functionality of gganimate.  
+
 - **24 Oct. 2019**:  
 **Presenter**: Xiaodan Lyu  
 **Title**: 'Interactive Data Visualization in Production'   
