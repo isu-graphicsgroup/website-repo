@@ -1,6 +1,11 @@
 # Talks
 Talks at the graphics working group
 
+- **07 Nov. 2019**:  
+**Presenter**: Haley Jeppson and Ian Lyttle  
+**Title**: 'ggvega: A ggplot2 to Vega-Lite translator'   
+**Abstract**: The ggvega package was created to translate from ggplot2 to Vega-Lite, inspired by the capability the R package plotly provides to translate from ggplot2 to plotly. In this talk, we will discuss the motivation and design philosophy behind ggvega as well as some of the roadblocks we encountered along the way. We will conclude with a demonstration of some fun use-cases.  
+
 - **31 Oct. 2019**:  
 **Presenter**: Katherine Goode  
 **Title**: 'gganimate (with a spooky twist)'   
