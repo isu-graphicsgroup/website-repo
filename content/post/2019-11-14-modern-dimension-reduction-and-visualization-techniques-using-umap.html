@@ -1,0 +1,14 @@
+---
+title: Modern Dimension Reduction and Visualization Techniques using UMAP
+author: Eric Hare and Lawrence Mosley
+date: '2019-11-14'
+slug: modern-dimension-reduction-and-visualization-techniques-using-umap
+images:
+  - /post/2019-11-14-eric.png
+---
+
+
+
+<p><img src="/post/2019-11-14-eric.png" style="width:75.0%" /></p>
+<p>One of our fundamental tasks as data scientists, especially given our focus on statistical graphics, is to take a potentially large and messy dataset, and extract meaningful relationships and patterns from it. One such approach to this is dimension reduction, the task of reducing the number of variables in a dataset to a much smaller number that still captures the structure of the original data well. A commonly used technique for dimension reduction is PCA, or Principal Component Analysis, where transformations of the variables are made in order to extract a set of uncorrelated principal components from the data. However, since PCA focuses of deriving latent linear features, when applied to data sets with global non-linear relationships, the 2-D projections produced will fail to capture salient aspects of the variance-covariance structure.</p>
+<p>In this talk, we will cover a newer dimension reduction technique called UMAP, or Uniform Manifold Approximation and Projection. Compared to PCA, UMAP is significantly more flexible, and compared to other visualization techniques like t-SNE, UMAP is significantly faster and more optimized. UMAP also produces a reduced-dimension dataset that has been shown to perform extremely well in statistical models. We will illustrate this by showing initial work on building a deep learning model that can read clock faces in order to tell time!</p>

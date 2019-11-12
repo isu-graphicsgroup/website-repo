@@ -2,6 +2,13 @@
 Talks at the graphics working group
 
 - **07 Nov. 2019**:  
+**Presenter**: Eric Hare and Lawrence Mosley  
+**Title**: 'Modern Dimension Reduction and Visualization Techniques using UMAP'   
+**Abstract**: One of our fundamental tasks as data scientists, especially given our focus on statistical graphics, is to take a potentially large and messy dataset, and extract meaningful relationships and patterns from it. One such approach to this is dimension reduction, the task of reducing the number of variables in a dataset to a much smaller number that still captures the structure of the original data well. A commonly used technique for dimension reduction is PCA, or Principal Component Analysis, where transformations of the variables are made in order to extract a set of uncorrelated principal components from the data. However, since PCA focuses of deriving latent linear features, when applied to data sets with global non-linear relationships, the 2-D projections produced will fail to capture salient aspects of the variance-covariance structure.
+
+    In this talk, we will cover a newer dimension reduction technique called UMAP, or Uniform Manifold Approximation and Projection. Compared to PCA, UMAP is significantly more flexible, and compared to other visualization techniques like t-SNE, UMAP is significantly faster and more optimized. UMAP also produces a reduced-dimension dataset that has been shown to perform extremely well in statistical models. We will illustrate this by showing initial work on building a deep learning model that can read clock faces in order to tell time!
+
+- **07 Nov. 2019**:  
 **Presenter**: Haley Jeppson and Ian Lyttle  
 **Title**: 'ggvega: A ggplot2 to Vega-Lite translator'   
 **Abstract**: The ggvega package was created to translate from ggplot2 to Vega-Lite, inspired by the capability the R package plotly provides to translate from ggplot2 to plotly. In this talk, we will discuss the motivation and design philosophy behind ggvega as well as some of the roadblocks we encountered along the way. We will conclude with a demonstration of some fun use-cases.  
