@@ -1,0 +1,8 @@
+---
+title: Can you trust your eyes?
+author: Susan VanderPlas Heike Hofmann
+date: '2019-11-21'
+slug: can-you-trust-your-eyes
+---
+
+We use phrases all the time - "plain as day", "right in front of you" - that suggest our visual system is infallible. When creating graphics, it is important to know when that assumption does not hold. In this talk, we'll discuss different pitfalls, optical illusions, and bugs that affect the visual system.

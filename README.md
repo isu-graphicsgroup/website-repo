@@ -1,7 +1,12 @@
 # Talks
 Talks at the graphics working group
 
-- **07 Nov. 2019**:  
+- **21 Nov. 2019**:  
+**Presenter**: Susan VanderPlas and Heike Hofmann  
+**Title**: Can you trust your eyes?'  
+**Abstract**: We use phrases all the time - "plain as day", "right in front of you" - that suggest our visual system is infallible. When creating graphics, it is important to know when that assumption does not hold. In this talk, we'll discuss different pitfalls, optical illusions, and bugs that affect the visual system. 
+
+- **14 Nov. 2019**:  
 **Presenter**: Eric Hare and Lawrence Mosley  
 **Title**: 'Modern Dimension Reduction and Visualization Techniques using UMAP'   
 **Abstract**: One of our fundamental tasks as data scientists, especially given our focus on statistical graphics, is to take a potentially large and messy dataset, and extract meaningful relationships and patterns from it. One such approach to this is dimension reduction, the task of reducing the number of variables in a dataset to a much smaller number that still captures the structure of the original data well. A commonly used technique for dimension reduction is PCA, or Principal Component Analysis, where transformations of the variables are made in order to extract a set of uncorrelated principal components from the data. However, since PCA focuses of deriving latent linear features, when applied to data sets with global non-linear relationships, the 2-D projections produced will fail to capture salient aspects of the variance-covariance structure.
