@@ -1,6 +1,11 @@
 # Talks
 Talks at the graphics working group
 
+- **5 Dec. 2019**:  
+**Presenter**: Eryn Blagg   
+**Title**: Dealing with 3D  
+**Abstract**: Dealing with 3D data adds a whole new complexity to the simplest of projects, now there is another plane to deal with. Now that 3D scanners and imaging are even more available, the need to work with 3D data is even more relevant. In this talk, we will discuss different ways to not align 3D data, and some possible ways to align them. And maybe some fun pictures along the way.  
+
 - **21 Nov. 2019**:  
 **Presenter**: Susan VanderPlas and Heike Hofmann  
 **Title**: Can you trust your eyes?'  
