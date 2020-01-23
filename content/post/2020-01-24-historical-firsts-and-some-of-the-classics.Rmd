@@ -3,10 +3,11 @@ title: Historical Firsts and Some of the Classics
 author: Heike Hofmann
 date: '2020-01-24'
 slug: historical-firsts-and-some-of-the-classics
-categories: []
-tags: []
-description: ''
+images:
+  - "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Playfair_TimeSeries-2.png/1920px-Playfair_TimeSeries-2.png"
 ---
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Playfair_TimeSeries-2.png/1920px-Playfair_TimeSeries-2.png){width=75%}
 
 In the time of abundant and sometimes questionable charts by software products we shall not name, it is easy to forget that not too long ago data could not be summarized readily and shown in charts produced with a mere click of a mouse or a few lines of instructions. 
 
