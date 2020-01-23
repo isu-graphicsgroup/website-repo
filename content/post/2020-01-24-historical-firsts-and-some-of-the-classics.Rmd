@@ -1,5 +1,5 @@
 ---
-title: Historical Firsts and some of the Classics
+title: Historical Firsts and Some of the Classics
 author: Heike Hofmann
 date: '2020-01-24'
 slug: historical-firsts-and-some-of-the-classics
