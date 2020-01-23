@@ -8,6 +8,9 @@ tags: []
 description: ''
 ---
 
-In the time of abundant and sometimes questionable charts by software products we shall not name, it is easy to forget that not too long ago data could not be summarized readily and shown in charts produced with a mere click of a mouse or a few lines of instructions. In this talk we are going to re-visit some of the historical firsts as well as some of the classical graphics. William Playfair - Scottish engineer and British secret agent gave us a few of those firsts: line charts, barcharts, and also, alas, pie charts. By looking at graphics created at a time when visualizing out-of-the-box was the only way to go, hopefully also allows us to break through our box and inspires us to visualize things a little differently. 
+In the time of abundant and sometimes questionable charts by software products we shall not name, it is easy to forget that not too long ago data could not be summarized readily and shown in charts produced with a mere click of a mouse or a few lines of instructions. 
+
+In this talk we are going to re-visit some of the historical firsts as well as some of the classical graphics. William Playfair - Scottish engineer and British secret agent gave us a few of those firsts: line charts, barcharts, and also, alas, pie charts. By looking at graphics created at a time when visualizing out-of-the-box was the only way to go, hopefully also allows us to break through our box and inspires us to visualize things a little differently.
+
 There might be cookies ... but if not, there will be cake :) 
 
