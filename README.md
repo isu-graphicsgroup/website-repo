@@ -1,6 +1,22 @@
 # Talks
 Talks at the graphics working group
 
+- **14 Feb. 2019**:  
+**Presenter**: Kiegan Rice and STATCOM  
+**Title**: STATCOM x Graphics Group: A Data Viz-a-thon  
+**Abstract**: National Student Exchange (NSE) is a non-profit consortium of 165 colleges and universities throughout the United States, Canada, Guam, Puerto Rico, and the U.S. Virgin Islands. NSE provides opportunities for collegiate study away and student exchange among member campuses. NSE recently reached out to Iowa State's STATCOM chapter for help visualizing survey data. We are hoping to leverage the awesome graphical minds of ISU's Graphics Group to accomplish two things: (1) have a discussion about visualizing "feedback" survey data, including Likert scale data and qualitative text response data, and (2) have the group spend some time with the data, making visualizations! The (mostly) cleaned data and a description file can be found in the CyBox linked here. You are welcome to look at the description and data and work on visualizations ahead of time. However, there is no need to do so before the meeting if you don't have time.
+
+- **7 Feb. 2019**:  
+**Presenter**: Ian Lyttle  
+**Title**: Conference Roundup  
+**Abstract**: This will presentation be a grab-bag of three topics:
+ 
+    1. A re-enactment of my rstudio::conf() talk “Small Team, Big Value: Using R to Design Visualizations”.
+
+    2. Discussion on rstudio::conf() itself.
+
+    3. A preview of what I plan to submit to UseR! (St. Louis), as a lightning talk – the package I worked on at Uncoast Unconf 2019: {steward}, to help you to document datasets.  I’d like to see what the group might find useful for this package, as I work on it between now and July.  https://uncoast-unconf.github.io/steward/
+
 - **24 Jan. 2019**:  
 **Presenter**: Heike Hofmann  
 **Title**: Historical Firsts and Some of the Classics  
