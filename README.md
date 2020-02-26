@@ -1,17 +1,22 @@
 # Talks
 Talks at the graphics working group
 
-- **21 Feb. 2019**:  
+- **28 Feb. 2020**:  
+**Presenter**: Kiegan Rice  
+**Title**: Political Data Journalism: A History of Election Graphics in the U.S.   
+**Abstract**: In today's day and age, U.S. society is inundated with information about politics and elections from all around the world. Particularly in a U.S. Presidential election year, the news is full of predictions, results, and stories about the primary and Presidential elections. The key to effectively communicating a message about election data lies in graphical presentation of statistical information. In this talk, I will present a history of innovation in election graphics including results, predictions, voter turnout, and campaigns and advertising. Slides can be found here (with lots of links to news articles).  
+
+- **21 Feb. 2020**:  
 **Presenter**: Ganesh Krishnan  
 **Title**: Interactive graphical diagnostics as visual model explanations for forensic toolmark examination  
 **Abstract**: Forensic firearms examiners subjectively compare two bullets, using visual examination to make a determination about whether the bullets are similar enough to have originated from the same weapon. Recently, there has been increased demand for quantitative, objective similarity assessment methods for many types of forensic evidence, including bullets. In this talk, we discuss visualizations for a machine learning algorithm capable of matching striation marks on fired bullets. We describe the steps of the algorithm and summary visualizations used at each stage of the data science pipeline, and present an application which wraps the visualizations into an interactive exploration tool. This application can be used to explain and interpret results from the machine learning algorithm, but it is also an effective tool for analysis of the model’s strengths and weaknesses when examining new (and sometimes messy) data. Using a sequence of case studies originating from a set of 5 fired bullets, we describe the effectiveness of the application for model exploration. Finally, we evaluate the tool’s design with respect to its ability to bridge the gap between experts in data science and experts in firearms examination.
 
-- **14 Feb. 2019**:  
+- **14 Feb. 2020**:  
 **Presenter**: Kiegan Rice and STATCOM  
 **Title**: STATCOM x Graphics Group: A Data Viz-a-thon  
 **Abstract**: National Student Exchange (NSE) is a non-profit consortium of 165 colleges and universities throughout the United States, Canada, Guam, Puerto Rico, and the U.S. Virgin Islands. NSE provides opportunities for collegiate study away and student exchange among member campuses. NSE recently reached out to Iowa State's STATCOM chapter for help visualizing survey data. We are hoping to leverage the awesome graphical minds of ISU's Graphics Group to accomplish two things: (1) have a discussion about visualizing "feedback" survey data, including Likert scale data and qualitative text response data, and (2) have the group spend some time with the data, making visualizations! The (mostly) cleaned data and a description file can be found in the CyBox linked here. You are welcome to look at the description and data and work on visualizations ahead of time. However, there is no need to do so before the meeting if you don't have time.
 
-- **7 Feb. 2019**:  
+- **7 Feb. 2020**:  
 **Presenter**: Ian Lyttle  
 **Title**: Conference Roundup  
 **Abstract**: This will presentation be a grab-bag of three topics:
@@ -22,7 +27,7 @@ Talks at the graphics working group
 
     3. A preview of what I plan to submit to UseR! (St. Louis), as a lightning talk – the package I worked on at Uncoast Unconf 2019: {steward}, to help you to document datasets.  I’d like to see what the group might find useful for this package, as I work on it between now and July.  https://uncoast-unconf.github.io/steward/
 
-- **24 Jan. 2019**:  
+- **24 Jan. 2020**:  
 **Presenter**: Heike Hofmann  
 **Title**: Historical Firsts and Some of the Classics  
 **Abstract**: In the time of abundant and sometimes questionable charts by software products we shall not name, it is easy to forget that not too long ago data could not be summarized readily and shown in charts produced with a mere click of a mouse or a few lines of instructions. In this talk we are going to re-visit some of the historical firsts as well as some of the classical graphics. William Playfair - Scottish engineer and British secret agent gave us a few of those firsts: line charts, barcharts, and also, alas, pie charts. By looking at graphics created at a time when visualizing out-of-the-box was the only way to go, hopefully also allows us to break through our box and inspires us to visualize things a little differently. There might be cookies … but if not, there will be cake :)   
