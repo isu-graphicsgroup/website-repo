@@ -1,6 +1,11 @@
 # Talks
 Talks at the graphics working group
 
+- **06 Mar. 2020**:  
+**Presenter**: Heike Hofmann  
+**Title**: Historical Firsts and Some Classics (II)   
+**Abstract**: In this talk we are going to re-visit some of the historical firsts as well as some of the classical graphics. William Playfair - Scottish engineer and British secret agent gave us a few of those firsts: line charts, barcharts, and also, alas, pie charts. Looking at graphics created at a time when visualizing out-of-the-box was the only way to go, hopefully also allows us to break through our box and inspires us to visualize things a little differently.
+
 - **28 Feb. 2020**:  
 **Presenter**: Kiegan Rice  
 **Title**: Political Data Journalism: A History of Election Graphics in the U.S.   
