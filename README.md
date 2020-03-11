@@ -1,6 +1,19 @@
 # Talks
 Talks at the graphics working group
 
+- **12 Mar. 2020**  
+**Presenter**: Di Cook  
+**Title**: A slice tour for finding hollowness in high-dimensional data  
+**Abstract**: Taking projections of high-dimensional data is a common analytical and visualisation technique in statistics for working with high-dimensional problems. Sectioning, or slicing, through high dimensions is less common, but can be useful for visualising data with concavities, or non-linear structure. It is associated with conditional distributions in statistics, and also linked brushing between plots in interactive data visualisation. This talk will describe the simple approach for  slicing in the orthogonal space of projections obtained when running a tour, thus presenting the viewer with an interpolated sequence of sliced projections. The method has been implemented in R as an extension to the tourr package, and can be used to explore for concave and non-linear structures in multivariate distributions.
+
+    If you want to follow along with the talk and run demos yourself, install the tourr package from github:
+
+    remotes::install_github("ggobi/tourr")
+
+    and the geozoo package from CRAN.
+
+    This is joint work with Ursula Laa, German Valencia, Andreas Buja  
+
 - **06 Mar. 2020**:  
 **Presenter**: Heike Hofmann  
 **Title**: Historical Firsts and Some Classics (II)   
