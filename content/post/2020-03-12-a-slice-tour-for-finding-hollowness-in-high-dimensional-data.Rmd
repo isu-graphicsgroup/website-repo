@@ -20,4 +20,6 @@ If you want to follow along with the talk and run demos yourself, install the to
 
 and the geozoo package from CRAN.
 
-This is joint work with Ursula Laa, German Valencia, Andreas Buja
+This is joint work with Ursula Laa, German Valencia, Andreas Buja. 
+
+The materials for the talk can be found [here](https://github.com/dicook/ISUGG_2020).
