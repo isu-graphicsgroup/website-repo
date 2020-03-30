@@ -1,6 +1,13 @@
 # Talks
 Talks at the graphics working group
 
+- **03 Apr. 2020**  
+**Presenter**: Anabelle Laurent and Xiaodan Lyu  
+**Title**: Create a personal website with Blogdown like what we did  
+**Abstract**: A personal website is an incomparable platform for building your online profile and showcasing your amazing work (research or other interesting stuff). Blogdown is a popular R package developed for producing a static website from R Markdown documents. Even if you are currently using GitHub pages for your personal website, you might be interested in this talk after reading [this post](https://yihui.org/en/2017/06/netlify-instead-of-github-pages/) by Yihui. In this talk, we’ll introduce some tips and tricks for building a personal website with Blogdown based on our own experience. This talk is expected to be a hands-on workshop (something fun and meaningful to do during quarantine). Participants would have a chance to build their own “baby” website and deploy the website online with Netlify!
+ 
+    Preparation: It would be helpful if you register a [Netlify](https://www.netlify.com/) account and master some basics about GitHub and Markdown in advance. You can be even more prepared and start to work on your own website now by following [this tutorial](https://annielyu.com/2020/01/12/blogdown-website/) written by Annie. That’s how Anabelle created [her own website](https://www.anabellelaurent.com/)!
+
 - **27 Mar. 2020**  
 **Presenter**: Eryn Blagg  
 **Title**: Detecting Wear Among 3D Shoe Objects  
