@@ -1,6 +1,11 @@
 # Talks
 Talks at the graphics working group
 
+- **10 Apr. 2020**  
+**Presenter**: Katherine Goode
+**Title**: An Overview of Visualization Techniques for Explainable Machine Learning
+**Abstract**: Machine learning models are excellent predictors, but it is impractical to interpret many of these models. Despite this impracticality, it is important to be able to explain predictions to assess and validate models. As a result, a field of research has recently developed in the explainability of machine learning models. In this talk, I will provide an overview of explainable machine learning with a focus on visualization methods. I will discuss philosophies of "explainability", model agnostic and model specific visualization methods, and code for creating some of the visualizations in R. I hope that this talk will provide listeners with an introduction to explainable machine learning and resources to learn more if desired.
+
 - **03 Apr. 2020**  
 **Presenter**: Anabelle Laurent and Xiaodan Lyu  
 **Title**: Create a personal website with Blogdown like what we did  
