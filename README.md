@@ -1,9 +1,14 @@
 # Talks
 Talks at the graphics working group
 
+- **17 Apr. 2020**  
+**Presenter**: Susan Vanderplas  
+**Title**: Computer Vision, Machine Learning, and… Jellybeans?  
+**Abstract**: While eating jellybeans isn’t as hazardous in the real world as in the Harry Potter universe, it can still be unexpectedly interesting: you think you have a few raspberry flavored beans, but how do you know one of them isn’t actually cinnamon? In an effort to combat this anxiety-inducing problem, we collected several sets of image data. I’ll talk about how we applied computer vision techniques to isolate the beans and extract useful features from the images (as well as the associated challenges). I’ll also show the results from the predictive models we developed, which have a classification accuracy of ~92% and significantly improve on my classification accuracy, which is about 10%. Note: My original plan was to give this talk in person and bring the jelly beans as a snack. While I can’t do a live demo, because my specimens are stranded on campus, you may still find it entertaining to acquire some jellybeans to munch. 🙂  
+
 - **10 Apr. 2020**  
-**Presenter**: Katherine Goode
-**Title**: An Overview of Visualization Techniques for Explainable Machine Learning
+**Presenter**: Katherine Goode  
+**Title**: An Overview of Visualization Techniques for Explainable Machine Learning    
 **Abstract**: Machine learning models are excellent predictors, but it is impractical to interpret many of these models. Despite this impracticality, it is important to be able to explain predictions to assess and validate models. As a result, a field of research has recently developed in the explainability of machine learning models. In this talk, I will provide an overview of explainable machine learning with a focus on visualization methods. I will discuss philosophies of "explainability", model agnostic and model specific visualization methods, and code for creating some of the visualizations in R. I hope that this talk will provide listeners with an introduction to explainable machine learning and resources to learn more if desired.
 
 - **03 Apr. 2020**  
