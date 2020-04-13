@@ -3,8 +3,8 @@ title: Historical Firsts and Some Classics (II)
 author: Heike Hofmann
 date: '2020-03-06'
 slug: historical-firsts-and-some-classics-ii
-categories: []
-tags: []
+categories: ["history"]
+tags: ["classic graphics", "women in statistics"]
 description: ''
 images:
   - /post/2020-03-06-heike.jpeg
