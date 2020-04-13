@@ -32,9 +32,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 # custom navbar menu entry.   See the custom_navbar parameter below for
 # details.
 
-#[[menu.navbar]]
-#  name = "Link 1"
-#  url = "https://example.org"
+[[menu.navbar]]
+  name = "Index"
+  url = "https://github.com/isu-graphicsgroup/website-repo/blob/master/README.md"
 
 
 # Theme variables
@@ -72,7 +72,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   # the relevant pages
   #   menu = "navbar"
   # or by specifying menu entries in a similar way to the sidebar menu above.
-  #custom_navbar = true
+  custom_navbar = true
 
   # show sharing icons on pages/posts (default: true)
   #sharingicons = true
