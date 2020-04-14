@@ -14,3 +14,5 @@ images:
 
 While eating jellybeans isn't as hazardous in the real world as in the Harry Potter universe, it can still be unexpectedly interesting: you *think* you have a few raspberry flavored beans, but how do you know one of them isn't actually cinnamon? In an effort to combat this anxiety-inducing problem, we collected several sets of image data. I'll talk about how we applied computer vision techniques to isolate the beans and extract useful features from the images (as well as the associated challenges). I'll also show the results from the predictive models we developed, which have a classification accuracy of ~92% and significantly improve on my classification accuracy, which is about 10%. 
 Note: My original plan was to give this talk in person and bring the jelly beans as a snack. While I can't do a live demo, because my specimens are stranded on campus, you may still find it entertaining to acquire some jellybeans to munch. 🙂
+
+The slides for the talk can be found [here](http://srvanderplas.github.io/Presentations/GraphicsGroup/20200417-JellyBeans/index.html).
