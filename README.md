@@ -1,6 +1,11 @@
 # Talks
 Talks at the graphics working group
 
+- **24 Apr. 2020**  
+**Presenter**: Kiegan Rice  
+**Title**: Managing Computational Reproducibility in a Shifting R Package Landscape  
+**Abstract**: Most modern data analysis requires the use of statistical software. The results of data analysis then rely on the underlying software utilized and the actions applied to data. R, one of the most widely-used statistical softwares for data analysis, relies on user-developed "packages" for many data science and data analysis tasks. These packages are subject to change over time, which can impact computational reproducibility efforts, as well as frustrate users who are left to hunt down problems in broken code. We propose an adaptive approach to computational reproducibility in R that focuses on identifying changes in packages over time. In this talk, I will discuss some prior approaches to achieving computational reproducibility in R and present our proposed framework for managing computational reproducibility. I will also demonstrate the software tools we are developing to assist users as a part of the "manager" package through two R package case studies.  
+
 - **17 Apr. 2020**  
 **Presenter**: Susan Vanderplas  
 **Title**: Computer Vision, Machine Learning, and… Jellybeans?  
