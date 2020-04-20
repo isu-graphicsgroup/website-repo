@@ -3,6 +3,8 @@ title: gganimate (with a spooky twist)
 author: 'Katherine Goode'
 date: '2019-10-31'
 slug: gganimate-with-a-spooky-twist
+categories:
+  - R packages
 images:
   - /post/2019-10-31-katherine.png
 ---
