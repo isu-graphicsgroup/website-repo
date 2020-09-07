@@ -1,5 +1,5 @@
 ---
-title:  Different approaches to crash data visualization
+title:  Different Approaches to Crash Data Visualization
 author: Ashirwad Barnwal
 date: '2020-09-03'
 slug: different-approaches-to-crash-data-visualization

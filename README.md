@@ -1,14 +1,19 @@
 # Talks
 Talks at the graphics working group
 
+- **10 Sept 2020**
+**Presenter**: Yumou Qiu
+**Title**: Comparing Containment Measures by Epidemiological Effects of COVID-19
+**Abstract**: We estimate and assess the effective reproduction numbers of COVID-19 for 25 countries using an extended SEIR model. By comparing the countries' reproduction curves over the first 4 weeks of the start of local transmission, we identify the successful strategies which may be useful for other countries to control the pandemic and the possible second wave. The study shows significant benefits in taking containment measures sooner with vigorous enforcement in reducing the effective reproduction number. An analysis on the weekly reduction rates in the reproduction number shows no positive correlation between the weekly reduction rates and the lead times since the outbreak in China. The absence of a lead-time advantage could be a key lesson for controlling future pandemics. Graphic tools have been developed to track the reproduction for each states in the US.
+
 - **3 Sept 2020**
 **Presenter**: Ashirward Barnwal
-**Title**: Different approaches to crash data visualization
+**Title**: Different Approaches to Crash Data Visualization
 **Abstract**: In the recent years, RStudio has ported Leaflet, a widely used open-source JavaScript library for creating interactive maps, to R as a package called leaflet and has made it possible to create maps in R using the familiar ggplot2 style syntax. Additionally, a bunch of Leaflet plugins that extend Leaflet's functionalities have also been ported to R by the community members, enabling users to create a variety of maps with ease. In this talk, I will demonstrate the use of the leaflet R package for visualizing fatal crash data for the state of Iowa in many different ways, such as heat maps, choropleth maps, etc. Towards the end of the presentation, I will also introduce some data visualization software such as kepler.gl and deck.gl that support large scale data and provide an intuitive interface to creating geospatial visualizations without any coding.
 
 - **27 Aug 2020**
 **Presenter**: Yawei Ge
-**Title**: The ggpcp for generalized parallel coordinate plot
+**Title**: The ggpcp for Generalized Parallel Coordinate Plot
 **Abstract**: ggpcp is an R package developed for the generalized parallel coordinate plots which are a useful set of graphics for visualizing data with more than 2-dimensions. It is generalized in the sense of combining numeric and categorical variables together while keeping the ability to track each observation. It helps to see some interesting aspects of the "high"-dimensional data.
 
 - **24 Apr. 2020**  
