@@ -25,8 +25,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[menu.sidebar]]
   name = "Di's blog: Visiphilia"
-  url = "http://dicook.github.io/blog.html"
+  url = "http://dicook.org/#posts" #"http://dicook.github.io/blog.html"
 
+[[menu.sidebar]]
+  name = "Di's blog: Visiphilia (Legacy)"
+  url = "http://visiphilia.org/index.html"
 
 
 # custom navbar menu entry.   See the custom_navbar parameter below for
