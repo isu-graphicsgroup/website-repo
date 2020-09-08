@@ -7,10 +7,10 @@ categories: ["covid19"]
 tags: ["covid19-visualizations"]
 description: ''
 images:
-  # - /post/2020-09-10-yumou.png
+  - /post/2020-09-10-yumou.png
 ---
 
-<!-- ![](/post/2020-09-10-yumou.png) -->
+![](/post/2020-09-10-yumou.png)
 
 We estimate and assess the effective reproduction numbers of COVID-19 for 25 countries using an extended SEIR model. By comparing the countries' reproduction curves over the first 4 weeks of the start of local transmission, we identify the successful strategies which may be useful for other countries to control the pandemic and the possible second wave. The study shows significant benefits in taking containment measures sooner with vigorous enforcement in reducing the effective reproduction number. An analysis on the weekly reduction rates in the reproduction number shows no positive correlation between the weekly reduction rates and the lead times since the outbreak in China. The absence of a lead-time advantage could be a key lesson for controlling future pandemics. Graphic tools have been developed to track the reproduction for each states in the US.
 
