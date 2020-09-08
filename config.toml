@@ -23,15 +23,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   name = "Graphics Group on GitHub"
   url = "https://github.com/isu-graphicsgroup"
 
-
-  [[menu.sidebar]]
-  name = "#1"
-  url = "http://dicook.org/#posts" #"http://dicook.github.io/blog.html"
-  [[menu.sidebar]]
-  name = "#2"
-  url = "http://visiphilia.org/index.html"
 [[menu.sidebar]]
-  name = "Di's blog: Visiphilia"
+  name = "Di's blog: Visiphilia #1"
+  url = "http://dicook.org/#posts" #"http://dicook.github.io/blog.html"
+
+[[menu.sidebar]]
+  name = "Di's blog: Visiphilia #2"
+  url = "http://visiphilia.org/index.html"
+
 
 
 # custom navbar menu entry.   See the custom_navbar parameter below for
