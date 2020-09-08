@@ -4,7 +4,7 @@ author: Di Cook, Monash University
 date: '2020-03-12'
 slug: a-slice-tour-for-finding-hollowness-in-high-dimensional-data
 categories: ["R packages"]
-tags: ["dimension reduction", "multivariate", "interactive"]
+tags: ["dimension reduction", "high-dimensional data", "interactive"]
 description: ''
 images:
   - /post/2020-03-12-di.png

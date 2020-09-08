@@ -4,7 +4,7 @@ author: Yumou Qiu
 date: '2020-09-10'
 slug: comparing-containment-measures-by-epidemiological-effects-of-covid19
 categories: ["covid19"]
-tags: ["covid19-visualizations"]
+tags: ["covid19 visualizations"]
 description: ''
 images:
   - /post/2020-09-10-yumou.png

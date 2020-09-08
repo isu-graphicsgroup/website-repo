@@ -1,8 +1,8 @@
 ---
-title:  Different Approaches to Crash Data Visualization
+title:  Crash Data Visualization Using leaflet
 author: Ashirwad Barnwal
 date: '2020-09-03'
-slug: different-approaches-to-crash-data-visualization
+slug: crash-data-visualization-using-leaflet
 categories: ["spatial visualizations"]
 tags: ["leaflet", "crash visualization"]
 description: ''

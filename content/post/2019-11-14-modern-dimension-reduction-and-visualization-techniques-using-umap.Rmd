@@ -3,6 +3,8 @@ title: Modern Dimension Reduction and Visualization Techniques using UMAP
 author: Eric Hare and Lawrence Mosley
 date: '2019-11-14'
 slug: modern-dimension-reduction-and-visualization-techniques-using-umap
+categories: ["machine learning"]
+tags: ["high-dimensional data","dimension-reduction"]
 images:
   - /post/2019-11-14-eric.png
 ---
