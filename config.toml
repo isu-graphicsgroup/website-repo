@@ -25,10 +25,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[menu.sidebar]]
   name = "Di's blog: Visiphilia"
+  [[menu.sidebar]]
+  name = "#1"
   url = "http://dicook.org/#posts" #"http://dicook.github.io/blog.html"
-
-[[menu.sidebar]]
-  name = "Di's blog: Visiphilia (Legacy)"
+  [[menu.sidebar]]
+  name = "#2"
   url = "http://visiphilia.org/index.html"
 
 
