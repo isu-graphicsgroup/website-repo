@@ -8,7 +8,7 @@ Talks at the graphics working group
 
 - **3 Sept 2020**  
 **Presenter**: Ashirwad Barnwal  
-**Title**: Different Approaches to Crash Data Visualization  
+**Title**: Crash Data Visualization Using Leaflet  
 **Abstract**: In the recent years, RStudio has ported Leaflet, a widely used open-source JavaScript library for creating interactive maps, to R as a package called leaflet and has made it possible to create maps in R using the familiar ggplot2 style syntax. Additionally, a bunch of Leaflet plugins that extend Leaflet's functionalities have also been ported to R by the community members, enabling users to create a variety of maps with ease. In this talk, I will demonstrate the use of the leaflet R package for visualizing fatal crash data for the state of Iowa in many different ways, such as heat maps, choropleth maps, etc. Towards the end of the presentation, I will also introduce some data visualization software such as kepler.gl and deck.gl that support large scale data and provide an intuitive interface to creating geospatial visualizations without any coding.
 
 - **27 Aug 2020**
