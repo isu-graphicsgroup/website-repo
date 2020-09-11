@@ -7,6 +7,7 @@ theme = "hugo-theme-bootstrap4-blog"
 # number of posts to show on home/category/tag pages (Default: 10)
 paginate = 5
 # optionally override the site's footer with custom copyright text
+copyright = "The Graphics Group website lists content about talks that have either already happened or scheduled to happen. The rights to each post belongs to the respective authors. Distribution and sharing of content must follow license rules enforced by the authors."
 # copyright = "Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/)."
 #googleAnalytics = "UA-123-45"
 #disqusShortname = "XYW"
@@ -95,11 +96,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     # How many posts to show on the sidebar (Default: 5)
     num_recent_posts = 3
 
-  [params.social]
+ # [params.social]
     # Optional, used for attribution in Twitter cards (ideally not a person
     # for example: nytimes, flickr, NatGeo, etc).
     # See: https://dev.twitter.com/cards/types/summary-large-image
-    twitter = "username"
+ #   twitter = "username"
 
 # Default content language for Hugo 0.17's multilingual support (default is "en")
 # See: https://github.com/spf13/hugo/blob/master/docs/content/content/multilingual.md
