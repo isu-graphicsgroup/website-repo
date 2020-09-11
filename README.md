@@ -1,6 +1,11 @@
 # Talks
 Talks at the graphics working group
 
+- **17 Sept 2020**  
+**Presenter**: Emily Robinson and Susan Vanderplas    
+**Title**: Comparing Containment Measures by Epidemiological Effects of COVID-19  
+**Abstract**: Log scales are often used to display data over several orders of magnitude within one graph. During the COVID pandemic, we've seen both the benefits and the pitfalls of using log scales to display data. In this week's graphics group, we will test out an experiment designed to assess perceptual and cognitive biases in graphical displays of exponentially increasing data.  
+
 - **10 Sept 2020**  
 **Presenter**: Yumou Qiu    
 **Title**: Comparing Containment Measures by Epidemiological Effects of COVID-19  
