@@ -1,6 +1,13 @@
 # Talks
 Talks at the graphics working group
 
+- **24 Sept 2020**  
+**Presenter**: Katherine Goode  
+**Title**: Explaining Neural Network Predictions for Functional Data Using Principal Component Analysis and Feature Importance  
+**Abstract**: Explainable machine learning has become a quickly growing area of research as the use of black-box models continues to increase. While many methods have been proposed, little research has been done relating to applications involving functional data. As an intern at Sandia National Laboratories, I have been helping to develop methods to provide explanations for an application focused on predicting explosive device characteristics using optical spectral-temporal signatures from explosions. In this talk, I’ll discuss our approach that involves transforming the functions using functional principal component analysis, training neural networks on the functional principal components, and using permutation feature importance (PFI) to identify the principal components that are important for prediction. Visualization has played a key role in the interpretation of the functional principal components identified as important by PFI to understand the functional variability in the signatures that is driving the predictions made by the neural networks.  
+
+Sandia National Laboratories is a multimission laboratory managed and operated by National Technology & Engineering Solutions of Sandia, LLC, a wholly owned subsidiary of Honeywell International Inc., for the U.S. Department of Energy’s National Nuclear Security Administration under contract DE-NA0003525. SAND no: SAND2020-10057 A  
+
 - **17 Sept 2020**  
 **Presenter**: Emily Robinson and Susan Vanderplas    
 **Title**: Comparing Containment Measures by Epidemiological Effects of COVID-19  
