@@ -4,7 +4,7 @@ author: Emily Robinson and Susan Vanderplas
 date: '2020-09-17'
 slug: perception-of-exponential-data-displayed-on-a-log-scale
 categories: ["visual inference"]
-tags: ["covid19 visualizations"]
+tags: ["covid19 visualizations", "lineup protocol"]
 description: ''
 images:
   - /post/2020-09-17-emily.png
