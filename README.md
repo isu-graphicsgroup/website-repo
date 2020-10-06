@@ -1,10 +1,16 @@
 # Talks
 Talks at the graphics working group
 
+- **08 Oct 2020**  
+**Presenter**: Carlos Llosa  
+**Title**: On the Higher-Order Singular Value Decomposition  
+**Abstract**: 
+Tensor decompositions are used for pattern recognition, exploratory data analysis, dimension reduction, and visualization of tensor-valued data. In this talk, I will review the theory, computation and visualization of the Higher-Order Singular Value Decomposition (HOSVD), which is the higher-order generalization of the matrix-valued SVD. I will use a sample of resting state fMRI, and the ggbrain R package to help visualize the decomposition.
+
 - **01 Oct 2020**  
 **Presenter**: Heike Hofmann  
 **Title**: Inference for Lineups  
-**Abstract**: Statistical inference provides the protocols for conducting rigorous science, but data plots provide the opportunity to discover the unexpected. These disparate endeavors are bridged by visual inference, where a lineup protocol can be employed for statistical testing. Human observers are needed to assess the lineups, typically using a crowd-sourcing service.  This paper describes a new approach for computing statistical significance associated with the results from applying a lineup protocol. It utilizes a Dirichlet distribution to accommodate different levels of visual interest in individual null panels. The suggested procedures facilitate statistical inference for a broader range of data problems.  
+**Abstract**: Statistical inference provides the protocols for conducting rigorous science, but data plots provide the opportunity to discover the unexpected. These disparate endeavors are bridged by visual inference, where a lineup protocol can be employed for statistical testing. Human observers are needed to assess the lineups, typically using a crowd-sourcing service. This paper describes a new approach for computing statistical significance associated with the results from applying a lineup protocol. It utilizes a Dirichlet distribution to accommodate different levels of visual interest in individual null panels. The suggested procedures facilitate statistical inference for a broader range of data problems.  
 
 - **24 Sept 2020**  
 **Presenter**: Katherine Goode  
