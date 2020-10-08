@@ -3,9 +3,9 @@ Talks at the graphics working group
 
 - **08 Oct 2020**  
 **Presenter**: Carlos Llosa  
-**Title**: On the Higher-Order Singular Value Decomposition  
+**Title**: On a Singular Value Decomposition of Tensors  
 **Abstract**: 
-Tensor decompositions are used for pattern recognition, exploratory data analysis, dimension reduction, and visualization of tensor-valued data. In this talk, I will review the theory, computation and visualization of the Higher-Order Singular Value Decomposition (HOSVD), which is the higher-order generalization of the matrix-valued SVD. I will use a sample of resting state fMRI, and the ggbrain R package to help visualize the decomposition.
+Tensor decompositions are used for pattern recognition, exploratory data analysis, dimension reduction, and visualization of tensor-valued data. In this talk, I will review the theory, computation and visualization of the Higher-Order Orthogonal Iteration  (HOOI), which is a higher-order generalization of the matrix-valued SVD. I will use a sample of resting state fMRI, and the ggbrain R package to help visualize the decomposition.
 
 - **01 Oct 2020**  
 **Presenter**: Heike Hofmann  
