@@ -7,9 +7,9 @@ categories: ["decompositions"]
 tags: ["high-dimensional data","ggbrain"]
 description: ''
 images:
-  # - /post/2020-10-08-carlos.png
+  - /post/2020-10-08-carlos.png
 ---
 
-<!-- ![](/post/2020-10-08-carlos.png) -->
+![](/post/2020-10-08-carlos.png)
 
 Tensor decompositions are used for pattern recognition, exploratory data analysis, dimension reduction, and visualization of tensor-valued data. In this talk, I will review the theory, computation and visualization of the Higher-Order Singular Value Decomposition (HOSVD), which is the higher-order generalization of the matrix-valued SVD. I will use a sample of resting state fMRI, and the ggbrain R package to help visualize the decomposition.
