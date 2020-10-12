@@ -1,0 +1,15 @@
+---
+title: Casting Multiple Shadows- High-Dimensional Interactive Data Visualisation With Tours and Embeddings
+author: Stuart Lee
+date: '2020-10-15'
+slug: casting-multiple-shadows-high-dimensional-interactive-data-visualisation-with-tours-and-embeddings
+categories: ["R packages", "decompositions"]
+tags: ["dimension reduction","high-dimensional data","tourr"]
+description: ''
+images:
+  - /post/2020-10-15-stuart.png
+---
+
+![](/post/2020-10-15-stuart.png)
+
+There has been a rapid uptake in the use of non-linear dimensionality reduction (NLDR) methods such as t-distributed stochastic neighbour embedding (t-SNE) in the natural sciences as part of cluster orientation and dimension reduction workflows. The appropriate use of these methods is made difficult by their complex parameterisations and the multitude of decisions required to balance the preservation of local and global structure in the resulting visualisation. We present visual diagnostics for the pragmatic usage of NLDR methods by combining them with a technique called the tour.  A tour is a sequence of interpolated linear projections of multivariate data onto a lower dimensional space. The sequence is displayed as a dynamic visualisation, allowing a user to see the shadows the high-dimensional data casts in a lower dimensional view. By linking the tour to a view obtained from an NLDR method, we can preserve global structure and through user interactions like linked brushing observe where the NLDR view may be misleading. We show a few use cases to demonstrate our approach and provide a discussion of current state of the art in interactive visualisation software in R.

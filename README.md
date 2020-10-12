@@ -1,6 +1,12 @@
 # Talks
 Talks at the graphics working group
 
+- *15 Oct 2020**  
+**Presenter**: Stuart Lee 
+**Title**: Casting multiple shadows: high-dimensional interactive data visualisation with tours and embeddings  
+**Abstract**: 
+There has been a rapid uptake in the use of non-linear dimensionality reduction (NLDR) methods such as t-distributed stochastic neighbour embedding (t-SNE) in the natural sciences as part of cluster orientation and dimension reduction workflows. The appropriate use of these methods is made difficult by their complex parameterisations and the multitude of decisions required to balance the preservation of local and global structure in the resulting visualisation. We present visual diagnostics for the pragmatic usage of NLDR methods by combining them with a technique called the tour.  A tour is a sequence of interpolated linear projections of multivariate data onto a lower dimensional space. The sequence is displayed as a dynamic visualisation, allowing a user to see the shadows the high-dimensional data casts in a lower dimensional view. By linking the tour to a view obtained from an NLDR method, we can preserve global structure and through user interactions like linked brushing observe where the NLDR view may be misleading. We show a few use cases to demonstrate our approach and provide a discussion of current state of the art in interactive visualisation software in R.
+
 - **08 Oct 2020**  
 **Presenter**: Carlos Llosa  
 **Title**: On a Singular Value Decomposition of Tensors  
