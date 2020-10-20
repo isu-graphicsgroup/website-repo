@@ -1,6 +1,12 @@
 # Talks
 Talks at the graphics working group
 
+- *22 Oct 2020*
+**Presenter**: Amin Shirazi
+**Title**: Snapshot tests in `testthat`
+**Abstract**:
+Writing unit tests for complicated objects such as text outputs containing many characters,  html, .rtf, graphical outputs, etc is very challenging. The new feature in the 3rd edition of testthat package gives the users the ability to record the expected output in a separate file to review by the user instead of using code to describe expected output. It provides tools to automatically generate and update that file as needed. In this presentation, I will go over my recent experience of working with snapshot tests in the 3rd edition of testthat package in validating complicated objects in R. 
+
 - *15 Oct 2020**  
 **Presenter**: Stuart Lee 
 **Title**: Casting multiple shadows: high-dimensional interactive data visualisation with tours and embeddings  
