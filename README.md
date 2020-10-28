@@ -1,6 +1,13 @@
 # Talks
 Talks at the graphics working group
 
+- *29 Oct 2020*
+**Presenter**: Ian Lyttle
+**Title**:  boxr: a package to connect to CyBox
+**Abstract**:
+This will be a demonstration of the boxr package (https://r-box.github.io/boxr), which provides an R client to the Box file-sharing service. For example, you can upload and download files to/from your CyBox account using R functions. By far, the biggest hurdle to using boxr is the authentication. Guillermo Basulto will walk us through an authentication example using CyBox; if you will have boxr installed on your computer, you can get this step out of the way during the presentation. Then, I will talk about some of the functions in boxr, and how I integrate it into my workflow.
+
+
 - *22 Oct 2020*
 **Presenter**: Amin Shirazi
 **Title**: Snapshot tests in `testthat`
