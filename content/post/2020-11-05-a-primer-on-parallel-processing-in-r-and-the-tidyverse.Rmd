@@ -1,0 +1,15 @@
+---
+title: A Primer on Parallel Processing in R and the Tidyverse
+author: Eric Hare
+date: '2020-11-05'
+slug: a-primer-on-parallel-processing-in-r-and-the-tidyverse
+categories: ["R packages"]
+tags: ["parallel processing"]
+description: ''
+images:
+  # - /post/2020-11-05-eric.png
+---
+
+<!-- ![](/post/2020-11-05-eric.png){width=90%} -->
+
+Central Processing Units (CPUs) or processors, are the workhorse of modern computing devices. For quite some time, processing manufacturers like Intel and AMD were racing to increase the clock speed ("Gigahertz") of the processor. More recently, the race has been about increasing the concurrency - adding processor cores that perform tasks in parallel. While many of the lower level libraries in R take advantage of these cores, often there are "embarrassingly parallelizable" tasks we perform in a data analysis that can be drastically sped up via explicit parallelism. In this talk, I will provide an overview of the structure of CPUs and how modern CPUs are designed with parallelism in mind. I will then tour some options for parallelism in R, starting with the base `parallel` package, and ending with the most recent, `furrr`, which provides drop-in replacements for the `purrr` series of map() functions with support for parallel processing.

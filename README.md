@@ -1,22 +1,28 @@
 # Talks
 Talks at the graphics working group
 
+- *05 Nov 2020*
+**Presenter**: Eric Hare  
+**Title**:  A Primer on Parallel Processing in R and the Tidyverse  
+**Abstract**:
+Central Processing Units (CPUs) or processors, are the workhorse of modern computing devices. For quite some time, processing manufacturers like Intel and AMD were racing to increase the clock speed ("Gigahertz") of the processor. More recently, the race has been about increasing the concurrency - adding processor cores that perform tasks in parallel. While many of the lower level libraries in R take advantage of these cores, often there are "embarrassingly parallelizable" tasks we perform in a data analysis that can be drastically sped up via explicit parallelism. In this talk, I will provide an overview of the structure of CPUs and how modern CPUs are designed with parallelism in mind. I will then tour some options for parallelism in R, starting with the base `parallel` package, and ending with the most recent, `furrr`, which provides drop-in replacements for the `purrr` series of map() functions with support for parallel processing.
+
 - *29 Oct 2020*
-**Presenter**: Ian Lyttle
-**Title**:  boxr: a package to connect to CyBox
+**Presenter**: Ian Lyttle  
+**Title**:  boxr: a package to connect to CyBox  
 **Abstract**:
 This will be a demonstration of the boxr package (https://r-box.github.io/boxr), which provides an R client to the Box file-sharing service. For example, you can upload and download files to/from your CyBox account using R functions. By far, the biggest hurdle to using boxr is the authentication. Guillermo Basulto will walk us through an authentication example using CyBox; if you will have boxr installed on your computer, you can get this step out of the way during the presentation. Then, I will talk about some of the functions in boxr, and how I integrate it into my workflow.
 
 
 - *22 Oct 2020*
-**Presenter**: Amin Shirazi
-**Title**: Snapshot tests in `testthat`
+**Presenter**: Amin Shirazi  
+**Title**: Snapshot tests in `testthat`  
 **Abstract**:
 Writing unit tests for complicated objects such as text outputs containing many characters,  html, .rtf, graphical outputs, etc is very challenging. The new feature in the 3rd edition of testthat package gives the users the ability to record the expected output in a separate file to review by the user instead of using code to describe expected output. It provides tools to automatically generate and update that file as needed. In this presentation, I will go over my recent experience of working with snapshot tests in the 3rd edition of testthat package in validating complicated objects in R. 
 
 - *15 Oct 2020**  
-**Presenter**: Stuart Lee 
-**Title**: Casting multiple shadows: high-dimensional interactive data visualisation with tours and embeddings  
+**Presenter**: Stuart Lee  
+**Title**: Casting multiple shadows: high-dimensional interactive data visualisation with tours and embeddings    
 **Abstract**: 
 There has been a rapid uptake in the use of non-linear dimensionality reduction (NLDR) methods such as t-distributed stochastic neighbour embedding (t-SNE) in the natural sciences as part of cluster orientation and dimension reduction workflows. The appropriate use of these methods is made difficult by their complex parameterisations and the multitude of decisions required to balance the preservation of local and global structure in the resulting visualisation. We present visual diagnostics for the pragmatic usage of NLDR methods by combining them with a technique called the tour.  A tour is a sequence of interpolated linear projections of multivariate data onto a lower dimensional space. The sequence is displayed as a dynamic visualisation, allowing a user to see the shadows the high-dimensional data casts in a lower dimensional view. By linking the tour to a view obtained from an NLDR method, we can preserve global structure and through user interactions like linked brushing observe where the NLDR view may be misleading. We show a few use cases to demonstrate our approach and provide a discussion of current state of the art in interactive visualisation software in R.
 
