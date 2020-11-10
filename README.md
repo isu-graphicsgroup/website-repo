@@ -1,6 +1,13 @@
 # Talks
 Talks at the graphics working group
 
+- *12 Nov 2020*  
+**Presenter**: Andee Kaplan  
+**Title**: Protoshiny: Exploring Interactive Dendrograms with Prototypes  
+**Abstract**:
+Clustering is one of the principal tools used by data analysts for uncovering the structure present within a data set. Hierarchical clustering is particularly popular since it can reveal multiple scales of groupings at once without forcing the data analyst to commit to a certain number of clusterings. However, hierarchical clustering's usefulness as a visualization tool is severely degraded by increasing data set sizes. We present an interactive tool that overcomes this difficulty, making hierarchical clustering useful for exploring data sets at scales of interest. Our tool is implemented using Shiny and D3.js and is based on minimax clustering, a method that associates a prototypical element with each node of a hierarchical clustering dendrogram.
+
+
 - *05 Nov 2020*  
 **Presenter**: Eric Hare  
 **Title**:  A Primer on Parallel Processing in R and the Tidyverse  

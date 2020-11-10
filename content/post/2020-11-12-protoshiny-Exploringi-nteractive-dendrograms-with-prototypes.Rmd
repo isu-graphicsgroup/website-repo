@@ -1,0 +1,15 @@
+---
+title: Protoshiny- Exploring Interactive Dendrograms with Prototypes  
+author: Andee Kaplan  
+date: '2020-11-12'
+slug: protoshiny-Exploringi-nteractive-dendrograms-with-prototypes  
+categories: ["Clustering"]
+tags: ["shiny", "D3.js", "interactive visualization"]
+description: ''
+images:
+  - /post/2020-11-12-andee.png
+---
+
+![](/post/2020-11-12-andee.png){width=90%}
+
+Clustering is one of the principal tools used by data analysts for uncovering the structure present within a data set. Hierarchical clustering is particularly popular since it can reveal multiple scales of groupings at once without forcing the data analyst to commit to a certain number of clusterings. However, hierarchical clustering's usefulness as a visualization tool is severely degraded by increasing data set sizes. We present an interactive tool that overcomes this difficulty, making hierarchical clustering useful for exploring data sets at scales of interest. Our tool is implemented using Shiny and D3.js and is based on minimax clustering, a method that associates a prototypical element with each node of a hierarchical clustering dendrogram.
