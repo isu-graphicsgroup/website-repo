@@ -14,7 +14,9 @@ copyright = "This website lists content related to talks that have either alread
 
 enableGitInfo = true
 
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+
+# After update and auto recommendation, removed the item '_files$' in the 'ignoreFiles' field in config.toml.
 
 [permalinks]
   post = "/:year/:month/:title/"
