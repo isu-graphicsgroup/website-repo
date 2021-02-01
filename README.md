@@ -1,7 +1,7 @@
 # Talks
 Talks at the graphics working group
 
-- **04 Feb 2021**
+- **04 Feb 2021**  
 **Presenter**: Andrew Maloney   
 **Title**: Assessing 3D Topographical data labeling using Convolutional Neural Networks  
 **Abstract**:
