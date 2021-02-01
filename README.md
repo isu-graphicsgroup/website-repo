@@ -5,7 +5,7 @@ Talks at the graphics working group
 **Presenter**: Andrew Maloney   
 **Title**: Assessing 3D Topographical data labeling using Convolutional Neural Networks  
 **Abstract**:
-Accurately labeled data ensures a supervised learning algorithm’s ability to correctly classify new, unseen instances. Currently, sections of a land engraved area scan, represented as 3d topographical data, are annotated by a trained operator.  Manually annotating land engraved area scans is a time-consuming process.  We propose using trained neural networks to automate the labeling of these land engraved area scans.  Using the currently labeled land engraved area scans, we present a data processing pipeline that transforms surface data for multi-classification 3d convolutional neural networks. We will look at the multiple parameters of these neural networks and the high degree of classification accuracy they offer.   
+Accurately labeled data ensures a supervised learning algorithm’s ability to correctly classify new, unseen instances. Currently, sections of a land engraved area scan, represented as 3d topographical data, are annotated by a trained operator. Manually annotating land engraved area scans is a time-consuming process. We propose using trained neural networks to automate the labeling of these land engraved area scans.  Using the currently labeled land engraved area scans, we present a data processing pipeline that transforms surface data for multi-classification 3d convolutional neural networks. We will look at the multiple parameters of these neural networks and the high degree of classification accuracy they offer.   
 
 
 - *19 Nov 2020*  
