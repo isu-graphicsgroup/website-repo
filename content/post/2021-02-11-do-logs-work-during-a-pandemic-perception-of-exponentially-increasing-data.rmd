@@ -20,4 +20,4 @@ curvature differences. An exception occurred when identifying a plot with curvat
 embedded in surrounding plots closely relating to a linear trend, indicating that it
 is easy to identify a curve in a group of lines but much harder to identify a line in
 a group of curves. The use of visual inference to identify these guidelines suggests
-that there are perceptual advantages to log scales when differences are subtle.
+that there are perceptual advantages to log scales when differences are subtle.  
