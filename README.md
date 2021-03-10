@@ -1,6 +1,13 @@
 # Talks
 Talks at the graphics working group
 
+- **11 March 2021**   
+**Presenter**: Denise Bradford  
+**Title*:What can public data tell us about the quality of life in rural small towns?    
+**Abstract**:  
+Leveraging a variety of APIs and scraping methods, we assembled data from many different publicly available data sources, including local, state, and national government data. Combining this data (which is collected at many different spatial resolutions), we explore the factors contributing to quality of life in small towns in Iowa, using both supervised and unsupervised methods to identify clusters of similar towns. Working with stakeholders in the small towns, we create visualizations designed to give small towns access to their own data, helping them to make decisions which preserve quality of life amid shrinking population.  
+
+
 - **25 Feb 2021**   
 **Presenter**: Katherine Goode
 **Title*: WhoseEgg- A Shiny App for Identifying Invasive Carp Using Random Forests and Fish Egg Characteristics  
