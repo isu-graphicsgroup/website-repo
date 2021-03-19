@@ -1,6 +1,18 @@
 # Talks
 Talks at the graphics working group
 
+- **18 March 2021**   
+**Presenter**: Ian Lyttle  
+**Title*: projthis - a framework for analysis-based project workflows 
+**Abstract**:  
+projthis is a new R-package, which offers a framework for analysis-based project workflows. You can use it to:
+    (1) manage the dependencies among files in your workflows; projthis provides tools to support a directory structure and a naming convention.
+    (2) manage your project's package-dependencies; projthis helps you use a DESCRIPTION file.
+    (3) automate the rendering of your workflow using GitHub Actions; projthis provides a template for an Action.
+
+Here’s a couple examples of analysis projects built and automated (run daily) using projthis: [covidStates](https://github.com/ijlyttle/covidStates), and [covidIowa](https://github.com/ijlyttle/covidIowa). I’ll go over the big ideas I try to implement in the package.  
+
+
 - **11 March 2021**   
 **Presenter**: Denise Bradford  
 **Title*:What can public data tell us about the quality of life in rural small towns?    

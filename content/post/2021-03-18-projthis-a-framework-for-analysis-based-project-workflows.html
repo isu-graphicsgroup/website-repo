@@ -1,0 +1,23 @@
+---
+title:  projthis - a framework for analysis-based project workflows
+author: Ian Lyttle
+date: '2021-03-18'
+slug: projthis-a-framework-for-analysis-based-project-workflows
+categories: ["R packages"]
+tags: ["reproducibility"]
+description: ''
+images:
+  - /post/2021-03-18-ian.png
+---
+
+<link href="/rmarkdown-libs/anchor-sections/anchor-sections.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/anchor-sections/anchor-sections.js"></script>
+
+
+<p><img src="/post/2021-03-18-ian.png" /></p>
+<p><a href="https://ijlyttle.github.io/projthis/">projthis</a> is a new R-package, which offers a framework for analysis-based project workflows. You can use it to:
+(1) manage the dependencies among files in your workflows; projthis provides tools to support a directory structure and a naming convention.
+(2) manage your project’s package-dependencies; projthis helps you use a DESCRIPTION file.
+(3) automate the rendering of your workflow using GitHub Actions; projthis provides a template for an Action.</p>
+<p>Here’s a couple examples of analysis projects built and automated (run daily) using projthis: <a href="https://github.com/ijlyttle/covidStates">covidStates</a>, and <a href="https://github.com/ijlyttle/covidIowa">covidIowa</a>. I’ll go over the big ideas I try to implement in the package.</p>
+<p>The slides for the talk can be found <a href="https://speakerdeck.com/ijlyttle/projthis-intro">here</a></p>
