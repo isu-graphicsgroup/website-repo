@@ -2,7 +2,7 @@
 title: Protoshiny- Exploring Interactive Dendrograms with Prototypes  
 author: Andee Kaplan  
 date: '2020-11-12'
-slug: protoshiny-Exploringi-nteractive-dendrograms-with-prototypes  
+slug: protoshiny-Exploring-interactive-dendrograms-with-prototypes  
 categories: ["Clustering"]
 tags: ["shiny", "D3.js", "interactive visualization"]
 description: ''

@@ -1,6 +1,12 @@
 # Talks
 Talks at the graphics working group
 
+- **23 March 2021**     
+**Presenter**: Kiegan Rice    
+**Title*:  These are[n't] the plots you are looking for: interactive data viz with the r2d3 package    
+**Abstract**:  
+Interactive data visualization is a powerful visual format that allows users to experience and explore data and their patterns. One of the most popular tools for creating interactive data visualizations is the D3.js library. The r2d3 package in R provides an entry point for R users to utilize the D3 graphing library to create beautiful interactive visualizations. In this talk I will introduce the basics of D3 and the functionality behind the r2d3 package, and demonstrate how R and ggplot2 users can start learning how to use D3 for interactive visualizations.   
+
 - **18 March 2021**   
 **Presenter**: Ian Lyttle  
 **Title*: projthis - a framework for analysis-based project workflows 
