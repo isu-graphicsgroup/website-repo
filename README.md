@@ -20,14 +20,14 @@ Here’s a couple examples of analysis projects built and automated (run daily) 
 
 
 - **11 March 2021**   
-**Presenter**: Denise Bradford  
+**Presenter**: Denise Bradford   
 **Title*:What can public data tell us about the quality of life in rural small towns?    
 **Abstract**:  
 Leveraging a variety of APIs and scraping methods, we assembled data from many different publicly available data sources, including local, state, and national government data. Combining this data (which is collected at many different spatial resolutions), we explore the factors contributing to quality of life in small towns in Iowa, using both supervised and unsupervised methods to identify clusters of similar towns. Working with stakeholders in the small towns, we create visualizations designed to give small towns access to their own data, helping them to make decisions which preserve quality of life amid shrinking population.  
 
 
 - **25 Feb 2021**   
-**Presenter**: Katherine Goode
+**Presenter**: Katherine Goode  
 **Title*: WhoseEgg- A Shiny App for Identifying Invasive Carp Using Random Forests and Fish Egg Characteristics  
 **Abstract**:  
 The fish species of Grass Carp (*Ctenopharyngodon idella*), Silver Carp (*Hypophthalmichthys molitrix*), and Bighead Carp (*H. nobilis*) are categorized as invasive carp in North America. There is interest from a natural resource management perspective to monitor the populations and spread of the fish species. A common monitoring practice is to collect and genetically identify fish eggs, but this process is both costly in money and time. [Camacho et al. (2019)](https://afspubs.onlinelibrary.wiley.com/doi/abs/10.1002/nafm.10380) demonstrated the use of machine learning as a possibility for a more efficient method of identifying invasive carp. Camacho et al. (2019) trained random forests on easy to measure egg characteristics such as water conductivity and average membrane diameter, and the models returned high accuracy.  
