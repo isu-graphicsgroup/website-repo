@@ -13,3 +13,5 @@ images:
 ![](/post/2021-02-18-ashirwad.png)
 
 ggplot2 is an excellent package that allows R users to create stunning data visualizations using the grammar of graphics. Over the years, the R community has developed numerous extensions to ggplot2 that extend ggplot2's graphing capabilities and allow for creating advanced data visualizations with much ease. In this talk, I will introduce some of my most frequently used ggplot2 extensions and demonstrate their use cases using walk-through examples.
+
+The slides for the talk can be found [here](Slides can be found here: https://isugg21-ggext.netlify.app/#1)[github](https://github.com/ashirwad/isu-graphics-ggext)
