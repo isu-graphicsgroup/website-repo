@@ -1,5 +1,5 @@
 ---
-title: These are(n't) the plots you are looking for- interactive data viz with the r2d3 package 
+title: These are[n't] the plots you are looking for- interactive data viz with the r2d3 package 
 author: Kiegan Rice
 date: '2021-03-25'
 slug:  these-are-not-the-plots-you-are-looking-for-interactive-data-viz-with-the-r2d3-package
