@@ -9,7 +9,7 @@ Interactive data visualization is a powerful visual format that allows users to 
 
 - **18 March 2021**   
 **Presenter**: Ian Lyttle  
-**Title**: projthis - a framework for analysis-based project workflows 
+**Title**: projthis - a framework for analysis-based project workflows   
 **Abstract**:  
 projthis is a new R-package, which offers a framework for analysis-based project workflows. You can use it to:
     (1) manage the dependencies among files in your workflows; projthis provides tools to support a directory structure and a naming convention.
