@@ -3,13 +3,13 @@ Talks at the graphics working group
 
 - **23 March 2021**     
 **Presenter**: Kiegan Rice    
-**Title*:  These are[n't] the plots you are looking for: interactive data viz with the r2d3 package    
+**Title**:  These are[n't] the plots you are looking for: interactive data viz with the r2d3 package    
 **Abstract**:  
 Interactive data visualization is a powerful visual format that allows users to experience and explore data and their patterns. One of the most popular tools for creating interactive data visualizations is the D3.js library. The r2d3 package in R provides an entry point for R users to utilize the D3 graphing library to create beautiful interactive visualizations. In this talk I will introduce the basics of D3 and the functionality behind the r2d3 package, and demonstrate how R and ggplot2 users can start learning how to use D3 for interactive visualizations.   
 
 - **18 March 2021**   
 **Presenter**: Ian Lyttle  
-**Title*: projthis - a framework for analysis-based project workflows 
+**Title**: projthis - a framework for analysis-based project workflows 
 **Abstract**:  
 projthis is a new R-package, which offers a framework for analysis-based project workflows. You can use it to:
     (1) manage the dependencies among files in your workflows; projthis provides tools to support a directory structure and a naming convention.
@@ -21,14 +21,14 @@ Here’s a couple examples of analysis projects built and automated (run daily) 
 
 - **11 March 2021**   
 **Presenter**: Denise Bradford   
-**Title*:What can public data tell us about the quality of life in rural small towns?    
+**Title**:What can public data tell us about the quality of life in rural small towns?    
 **Abstract**:  
 Leveraging a variety of APIs and scraping methods, we assembled data from many different publicly available data sources, including local, state, and national government data. Combining this data (which is collected at many different spatial resolutions), we explore the factors contributing to quality of life in small towns in Iowa, using both supervised and unsupervised methods to identify clusters of similar towns. Working with stakeholders in the small towns, we create visualizations designed to give small towns access to their own data, helping them to make decisions which preserve quality of life amid shrinking population.  
 
 
 - **25 Feb 2021**   
 **Presenter**: Katherine Goode  
-**Title*: WhoseEgg- A Shiny App for Identifying Invasive Carp Using Random Forests and Fish Egg Characteristics  
+**Title**: WhoseEgg- A Shiny App for Identifying Invasive Carp Using Random Forests and Fish Egg Characteristics  
 **Abstract**:  
 The fish species of Grass Carp (*Ctenopharyngodon idella*), Silver Carp (*Hypophthalmichthys molitrix*), and Bighead Carp (*H. nobilis*) are categorized as invasive carp in North America. There is interest from a natural resource management perspective to monitor the populations and spread of the fish species. A common monitoring practice is to collect and genetically identify fish eggs, but this process is both costly in money and time. [Camacho et al. (2019)](https://afspubs.onlinelibrary.wiley.com/doi/abs/10.1002/nafm.10380) demonstrated the use of machine learning as a possibility for a more efficient method of identifying invasive carp. Camacho et al. (2019) trained random forests on easy to measure egg characteristics such as water conductivity and average membrane diameter, and the models returned high accuracy.  
 
