@@ -1,6 +1,6 @@
 ---
 title: "You draw it with r2d3"
-author: "Ganesh Krishnan"
+author: "Emily Robinson"
 date: '2021-04-08'
 slug: you-draw-it-r2d3
 categories: ["R package"]
