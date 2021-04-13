@@ -4,7 +4,7 @@ author: "Eryn Blagg"
 date: '2021-04-15'
 slug: a-place-for-art-in-statistics
 categories: ["visual inference"]
-tags: ["data art", "visualizations"]
+tags: ["data art"]
 description: ''
 images:
   - /post/2021-04-15-eryn.png
