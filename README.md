@@ -1,6 +1,13 @@
 # Talks
 Talks at the graphics working group
 
+- **15 April 2021**  
+**Presenter**: Eryn Blagg  
+**Title**: A place for Art in Statistics  
+**Abstract**:  
+Most people see math and art as two parts of the brain, one as logical one as emotional. The goal of art is to tell a story in a glance, isn’t that the same goal of a data visualization? Here we will take a look at the line between the left brain and the right brain in Data Art and discuss the functionality of adding emotion to the logic.   
+
+
 - **8 April 2021**      
 **Presenter**: Emily Robinson  
 **Title**:  You draw it with r2d3  
