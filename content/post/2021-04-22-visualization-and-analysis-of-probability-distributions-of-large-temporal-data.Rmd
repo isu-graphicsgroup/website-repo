@@ -1,0 +1,16 @@
+---
+title: Visualization and analysis of probability distributions of large temporal data
+author: Sayani Gupta
+date: '2021-04-22'
+slug:  visualization-and-analysis-of-probability-distributions-of-large-temporal-data
+categories: ["R package"]
+tags: ["temporal visualizations", "time series"]
+description: ''
+images:
+  # - /post/2021-04-25-sayani.png
+---
+
+<!-- ![](/post/2021-04-25-sayani.png){width=80%} -->
+
+Several classes of time deconstructions can assist in the exploration and automated analysis of large temporal data sets. Cyclic time granularities, which are temporal deconstructions accounting for repetitive behavior, like hour-of-day, day-of-week, or special holidays can be used to create a visualization of the data to explore for periodicities, associations, and anomalies. Analysts are expected to comprehensively explore the many ways to view and analyze such graphics, however, the lack of a systematic approach to do so quickly becomes overwhelming. In this talk, I will introduce some concepts and decision rules to screen the most informative graphics from the plethora of choices. Granularities that can be meaningfully examined together are called “harmonies” and the ones which cannot be are called “clashes”. This work introduces a distance measure that could be compared across harmonies with a varied number of categories and data sets. This distance measure could also be used to rank the selected harmonies basis how well they capture the variation in the measured variable. All the methods are implemented in the open-source R package hakear (Github) and gravitas (CRAN). This is joint work with Professor Dianne Cook and Professor Rob Hyndman. 
+
