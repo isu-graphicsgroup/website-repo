@@ -1,9 +1,30 @@
 # Talks
 Talks at the graphics working group
 
+- **23 September 2021**   
+**Presenter**: Heike Hofmann  
+**Title**: Drawing inference from lineups  
+**Abstract**: 
+Statistical inference provides the protocols for conducting rigorous science, but data plots provide the opportunity to discover the unexpected. These disparate endeavors are bridged by visual inference, where a lineup protocol can be employed for statistical testing. Human observers are needed to assess the lineups, typically using a crowd-sourcing service.  In this talk we will discuss how to calculate statistical significance associated with the results from applying a lineup protocol. Our approach utilizes a Dirichlet distribution to accommodate different levels of visual interest in individual null panels. The suggested procedures facilitate statistical inference for a broader range of data problems.  
+
+
+- **16 September 2021**   
+**Presenter**: Ganesh Krishnan  
+**Title**: Modeling dependence in high-fimensional settings    
+**Abstract**:  
+Capturing the relationship between covariates is an important part of statistical inference, but when the underlying relationship is not linear in nature, or when things like tail dependence come into play, our intuition begins to falter, especially in multivariate settings. In this talk, I will give an introduction to the more general concept of dependence modeling and how to think about dependence. I will give an introduction to some commonly used measures for capturing dependence, and ways of visualizing them. Then I will briefly talk about copulas, what they do, some commonly used types, how they are traditionally visualized and possible ways they can be used in model fitting and machine learning.  
+
+
+
+- **09 September 2021**   
+**Presenter**: Ashirwad Barnwal  
+**Title**: 20 random tips and tricks for working with R, Rmarkdown, and RStudio
+**Abstract**:  
+R is a popular programming language used by millions of people worldwide for data analysis and visualization. Rmarkdown is a notebook format that allows R users to weave code output and narratives in a single document, and is extremely popular among data scientists for authoring reproducible articles. RStudio is a popular integrated development environment (IDE) that enhances user experience of working with R. In this talk, I will share my top 20 tips and tricks that can help optimize the experience and make working with R, Rmarkdown, and RStudio, faster, easier and intuitive.   
+
 - **22 April 2021**   
 **Presenter**: Sayani Gupta  
-**Title**: Visualization and analysis of probability distributions of large temporal data    
+**Title**: Visualization and analysis of probability distributions of large temporal data
 **Abstract**:  
 Several classes of time deconstructions can assist in the exploration and automated analysis of large temporal data sets. Cyclic time granularities, which are temporal deconstructions accounting for repetitive behavior, like hour-of-day, day-of-week, or special holidays can be used to create a visualization of the data to explore for periodicities, associations, and anomalies. Analysts are expected to comprehensively explore the many ways to view and analyze such graphics, however, the lack of a systematic approach to do so quickly becomes overwhelming. In this talk, I will introduce some concepts and decision rules to screen the most informative graphics from the plethora of choices. Granularities that can be meaningfully examined together are called “harmonies” and the ones which cannot be are called “clashes”. This work introduces a distance measure that could be compared across harmonies with a varied number of categories and data sets. This distance measure could also be used to rank the selected harmonies basis how well they capture the variation in the measured variable. All the methods are implemented in the open-source R package hakear (Github) and gravitas (CRAN). This is joint work with Professor Dianne Cook and Professor Rob Hyndman.   
 

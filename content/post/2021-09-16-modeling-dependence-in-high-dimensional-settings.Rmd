@@ -1,0 +1,15 @@
+---
+title: "Modeling dependence in high-dimensional settings"
+author: "Ganesh Krishnan"
+date: '2021-09-16'
+slug: modeling-dependence-in-high-dimensional-settings
+categories: ["High-dimensional"]
+tags: ["kendall tau", "entropy", "visualization", "copulas"]
+description: ''
+images:
+  - /post/2021-09-16-ganesh.png
+---
+
+![](/post/2021-09-16-ganesh.png){width=80%}
+Capturing the relationship between covariates is an important part of statistical inference, but when the underlying relationship is not linear in nature, or when things like tail dependence come into play, our intuition begins to falter, especially in multivariate settings. In this talk, I will give an introduction to the more general concept of dependence modeling and how to think about dependence. I will give an introduction to some commonly used measures for capturing dependence, and ways of visualizing them. Then I will briefly talk about copulas, what they do, some commonly used types, how they are traditionally visualized and possible ways they can be used in model fitting and machine learning.  
+
