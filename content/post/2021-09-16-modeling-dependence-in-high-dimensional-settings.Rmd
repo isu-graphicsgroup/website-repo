@@ -3,8 +3,8 @@ title: "Modeling dependence in high-dimensional settings"
 author: "Ganesh Krishnan"
 date: '2021-09-16'
 slug: modeling-dependence-in-high-dimensional-settings
-categories: ["High-dimensional"]
-tags: ["kendall tau", "entropy", "visualization", "copulas"]
+categories: ["high-dimensional inference"]
+tags: ["visualizations", "high-dimensional", "copulas"]
 description: ''
 images:
   - /post/2021-09-16-ganesh.png

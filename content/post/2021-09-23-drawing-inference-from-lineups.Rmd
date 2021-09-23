@@ -3,7 +3,7 @@ title: "Drawing inference from lineups"
 author: "Heike Hofmann"
 date: '2021-09-23'
 slug: drawing-inference-from-lineups
-categories: ["Visual Inference"]
+categories: ["visual Inference"]
 tags: ["visual statistical testing", "lineup protocol"]
 description: ''
 images:
