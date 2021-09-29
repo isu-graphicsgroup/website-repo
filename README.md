@@ -1,6 +1,13 @@
 # Talks
 Talks at the graphics working group
 
+- **30 September 2021**   
+**Presenter**: Ian Lyttle  
+**Title**: Tidy-evaluation tutorial, 2nd edition  
+**Abstract**:  
+In the last couple years, the Tidyverse team has made a series of informative presentations, giving practical advice on how to “deal with” tidy evaluation: the framework used for non-standard evaluation in the Tidyverse. This interactive tutorial, available at http://ijlyttle.shinyapps.io/tidyeval/, has been reworked to focus on this practical advice: how to write functions for (1) Shiny apps, and (2) interactive use. The tutorial includes videos of the Tidyverse team’s presentations – which you might find interesting to watch in advance (or later). During the Graphics Group session, we will go through as much of the tutorial as time will permit.  
+
+
 - **23 September 2021**   
 **Presenter**: Heike Hofmann  
 **Title**: Drawing inference from lineups  
