@@ -1,7 +1,7 @@
 # Talks
 Talks at the graphics working group
 
-- **30 September 2021**   
+- **14  October 2021**   
 **Presenter**: Emily Robinson   
 **Title**: Can ‘You Draw It’? Eye Fitting Straight Lines in the Modern Era  
 **Abstract**:  
