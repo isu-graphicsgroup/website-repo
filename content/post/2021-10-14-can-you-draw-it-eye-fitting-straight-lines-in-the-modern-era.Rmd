@@ -1,6 +1,6 @@
 ---
-title: Can You Draw It? Eye Fitting Straight Lines in the Modern Era
-author: Emily Robinson
+title: "Can You Draw It? Eye Fitting Straight Lines in the Modern Era"
+author: "Emily Robinson"
 date: '2021-10-14'
 slug: can-you-draw-it-eye-fitting-straight-lines-in-the-modern-era
 categories: ["visual inference"]
@@ -9,6 +9,7 @@ description: ''
 images:
   - /post/2021-10-14-emily.png
 ---
+
 ![](/post/2021-10-14-emily.png){width=80%}
 
 How do statistical regression results compare to intuitive, visually fitted results? Fitting lines by eye through a set of points has been explored since the 20th century. Common methods of fitting trends by eye involve maneuvering a string, black thread, or ruler until the fit is suitable, then drawing the line through the set of points. In 2015, the New York Times introduced an interactive feature, called ‘You Draw It’, where readers are asked to input their own assumptions about various metrics and compare how these assumptions relate to reality. The objective of this work is to validate ‘You Draw It’ as a method for graphical testing, comparing results to the less technological method utilized in Mosteller et al. (1981) and extending that study with formal statistical analysis methods. In this presentation, I will share the results which validate ‘You Draw It’ as a method for graphical testing and reinforce the differences between intuitive visual model fitting and statistical model fitting, providing information about human perception as it relates to the use of statistical graphics.
