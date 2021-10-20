@@ -1,0 +1,24 @@
+---
+title: "Introduction to git flow"
+author: "Wangqian Ju"
+date: '2021-10-21'
+slug: introduction-to-git-flow
+categories: ["workflow"]
+tags: ["git", "github", "gitflow"]
+description: ''
+images:
+  - /post/2021-10-21-will.png
+---
+
+![](/post/2021-10-21-will.png){width=80%}  
+
+
+Having a standard workflow to follow is helpful to manage a complicated project, especially when multiple developers are involved. git flow provides git users with useful commands for following one such workflow. In this presentation, I will introduce a standard workflow for git users, provide intuition, give a short demo using basic commands of git flow, and a discussion on other kinds of workflow in the workspace. I will also talk about some concepts related to git (add, commit, pull, push, merge, branch, etc.)  Everyone interested in git, is welcome to join. 
+
+The slides for the talk can be found [here](https://docs.google.com/presentation/d/15KQBNdQEL-te9IMjBJV9EQwiX1Xaj-agJL_MySfDU2s/edit?usp=sharing) [github](https://github.com/willju-wangqian/will-gitflow-demo)
+
+
+
+
+
+
