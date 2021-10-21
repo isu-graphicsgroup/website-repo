@@ -1,7 +1,7 @@
 # Talks
 Talks at the graphics working group
 
--**21 October 2021**  
+- **21 October 2021**  
 **Presenter**: Will Ju  
 **Title**: Introduction to Gitflow  
 **Abstract**:  
