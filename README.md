@@ -5,7 +5,7 @@ Talks at the graphics working group
 **Presenter**: Will Ju  
 **Title**: Introduction to Gitflow  
 **Abstract**:  
-Having a standard workflow to follow is helpful to manage a complicated project, especially when multiple developers are involved. git flow provides git users with useful commands for following one such workflow. In this presentation, I will introduce a standard workflow for git users, provide intuition, give a short demo using basic commands of git flow, and a discussion on other kinds of workflow in the workspace. I will also talk about some concepts related to git (add, commit, pull, push, merge, branch, etc.)  Everyone interested in git, is welcome to join.  
+Having a standard workflow to follow is helpful to manage a complicated project, especially when multiple developers are involved. git flow provides git users with useful commands for following one such workflow. In this presentation, I will introduce a standard workflow for git users, provide intuition, give a short demo using basic commands of git flow, and a discussion on other kinds of workflow in the workspace. I will also talk about some concepts related to git (add, commit, pull, push, merge, branch, etc.)  Everyone interested in git, is welcome to join  
 
 
 - **14  October 2021**   
