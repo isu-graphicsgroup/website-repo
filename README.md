@@ -2,6 +2,13 @@
 Talks at the graphics working group
 
 - **21 October 2021**  
+**Presenter**: Niladri Roy Chowdhury  
+**Title**: The 'See'-Value App: Visual Decision-Making for Drug Development
+**Abstract**:  
+Humans are notorious at seeing patterns in plots even when there are none, especially when there is some incentive (e.g. financial) to do so. To avoid these pitfalls, the lineup protocol (Buja et. al 2009) calls for generating a number of simulated ("null") plots and asking a user to try to pick out the real data from the rest. We created an R-shiny App that allows the user to generate these lineups by using preloaded examples or by uploading their own data. Any number of users can then select the plot that they each think has the real data and individually check if their choice was correct. If enough users choose correctly (before seeing the real answer), the evidence suggests the real plot is significantly (and substantively) different from the null plots. To make this intuition precise, our app calculates a "see"-value, which can be used to decide statistical significance. Our app supports different types of analysis using continuous, binary, or time-to-event responses --- and continuous or categorical predictors. 
+
+
+- **21 October 2021**  
 **Presenter**: Will Ju  
 **Title**: Introduction to Gitflow  
 **Abstract**:  
