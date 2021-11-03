@@ -1,7 +1,13 @@
 # Talks
 Talks at the graphics working group
 
-- **21 October 2021**  
+- **4 November 2021**  
+**Presenter**: Anabelle Laurent  
+**Title**: Late-Season Corn Stalk Nitrate from Farmer Fields: Development of an Interactive App & Data-Analytics Framework  
+**Abstract**:  
+Nitrogen (N) must be managed efficiently to reach profitability while limiting N losses to the environment. The late-season corn stalk nitrate test (CSNT) is a reliable evaluation tool for measuring corn N status and understanding of how N management practices perform at the field scale. The CSNT measures the nitrate (NO3−) concentration in the above-ground portion of cornstalks, which can be collected up to three weeks after black layer formation. Numeric results are usually interpreted into four N sufficiency categories: deficient, marginal, optimal, and excessive. Therefore, the analysis of CNST values could provide growers with helpful information to guide future N application rates. In this study, we assembled a data repository that combines CNST samples from fields surveyed across the states of Ohio, Indiana, Iowa, Illinois, and Michigan, from 2006 to 2018. A total of 10,337 cornfields and 77,091cornstalk samples were collected, representing various typical N management practices in the study area. We also included site-specific environmental conditions and management practices to understand their influence on N status, loss, and availability. The repository required data processing, cleaning, and storage to be shared with researchers interested in extracting additional value from multi-location on-farm data to advance agronomic research. In addition, we are developing a R Shiny interface which will allow a wide range of users to explore the data. It will contain statistical summaries at the county, state, and climate district levels to answer the needs of research and extension efforts.  
+
+- **28 October 2021**  
 **Presenter**: Niladri Roy Chowdhury  
 **Title**: The 'See'-Value App: Visual Decision-Making for Drug Development
 **Abstract**:  
