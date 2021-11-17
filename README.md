@@ -1,6 +1,13 @@
 # Talks
 Talks at the graphics working group
 
+- **17 November 2021**  
+**Presenter**: Guillermo Basulto-Elias  
+**Title**: Late-Season Corn Stalk Nitrate from Farmer Fields: Development of an Interactive App & Data-Analytics Framework  
+**Abstract**:  
+Efficient data communication with colleagues is crucial in research. Although many statisticians and data scientists prefer standard text files or software specific data, like RData files, Microsoft Excel remains as a to-go software to create and store data for many researchers. MS Excel has many well-known detrimental effects, but it also has some perks that can be exploited, for example, hiding columns, imposing restrictions on columns, and creating hyperlinks. On the other hand, you can use a shiny app for a similar goal with more freedom via a shiny app if your colleagues have R installed. In this talk, I will talk about how I extensively used the following R packages “openxlsx,” “shiny,” “shinyWidgets,” “tidyverse,” “lubridate,” and “leaflet” to do that. I will present a few examples from my work at the Institute for Transportation of ISU.  
+
+
 - **4 November 2021**  
 **Presenter**: Anabelle Laurent  
 **Title**: Late-Season Corn Stalk Nitrate from Farmer Fields: Development of an Interactive App & Data-Analytics Framework  

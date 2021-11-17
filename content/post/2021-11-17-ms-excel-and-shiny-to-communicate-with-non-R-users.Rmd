@@ -1,0 +1,17 @@
+---
+title: "MS Excel and Shiny to Communicate with Non-R Users (A Partial Path for Excel to Redeem Itself)"
+author: "Guillermo Basulto"
+date: '2021-11-17'
+slug: ms-excel-and-shiny-to-communicate-with-non-R-users
+categories: ["communication"]
+tags: ["shiny", "ms-excel"]
+description: ''
+images:
+  - /post/2021-11-17-guillermo.png
+---
+
+![](/post/2021-11-17-guillermo.png)
+
+Efficient data communication with colleagues is crucial in research. Although many statisticians and data scientists prefer standard text files or software specific data, like RData files, Microsoft Excel remains as a to-go software to create and store data for many researchers. MS Excel has many well-known detrimental effects, but it also has some perks that can be exploited, for example, hiding columns, imposing restrictions on columns, and creating hyperlinks. On the other hand, you can use a shiny app for a similar goal with more freedom via a shiny app if your colleagues have R installed.
+
+In this talk, I will talk about how I extensively used the following R packages “openxlsx,” “shiny,” “shinyWidgets,” “tidyverse,” “lubridate,” and “leaflet” to do that. I will present a few examples from my work at the Institute for Transportation of ISU. 
