@@ -8,9 +8,11 @@ tags: ["interactive graphics", "graphical testing"]
 description: ''
 images:
   - /post/2022-02-17-emily.png
-url_slides: https://earobinson95.github.io/presentations/ISU-Graphics-Group/2022-02-16-intergalactic-population-estimation/index.html#1
-url_code: ""
+url_slides:
+  - https://earobinson95.github.io/presentations/ISU-Graphics-Group/2022-02-16-intergalactic-population-estimation/index.html#1
 ---
 
 ![](/post/2022-02-17-emily.png)
 Questioning matters! The last graphical test for my research involves graph comprehension and extracting information from the chart. My talk will involve an interactive portion, inviting you to participate and provide feedback on the study. We will then discuss important aspects of graph comprehension and how they relate to selecting questions for the literal reading of data, reading between the data, and reading beyond the data. I will also share my Wikipedia literature review on intergalactic time conversions.
+
+Slides for this talk can be found [here](https://earobinson95.github.io/presentations/ISU-Graphics-Group/2022-02-16-intergalactic-population-estimation/index.html#1).
