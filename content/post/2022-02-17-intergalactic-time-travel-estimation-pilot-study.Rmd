@@ -8,6 +8,8 @@ tags: ["interactive graphics", "graphical testing"]
 description: ''
 images:
   - /post/2022-02-17-emily.png
+url_slides: https://earobinson95.github.io/presentations/ISU-Graphics-Group/2022-02-16-intergalactic-population-estimation/index.html#1
+url_code: ""
 ---
 
 ![](/post/2022-02-17-emily.png)
