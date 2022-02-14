@@ -1,0 +1,14 @@
+---
+title: "Intergalactic Time Travel: Estimation Pilot Study"
+author: "Emily Robinson"
+date: '2022-02-17'
+slug: intergalactic-time-travel-estimation-pilot-study
+categories: ["visual inference"]
+tags: ["interactive graphics", "graphical testing"]
+description: ''
+images:
+  - /post/2022-02-17-emily.png
+---
+
+![](/post/2022-02-17-emily.png)
+Questioning matters! The last graphical test for my research involves graph comprehension and extracting information from the chart. My talk will involve an interactive portion, inviting you to participate and provide feedback on the study. We will then discuss important aspects of graph comprehension and how they relate to selecting questions for the literal reading of data, reading between the data, and reading beyond the data. I will also share my Wikipedia literature review on intergalactic time conversions.
