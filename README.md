@@ -1,6 +1,18 @@
 # Talks
 Talks at the graphics working group
 
+- **24 January 2022**  
+**Presenter**: Ashirwad Barnwal  
+**Title**: Map matching in R  
+**Abstract**:  
+Map matching is an interesting problem that involves snapping noisy GPS traces to a road network with a high degree of accuracy. It is used by ride-sharing services such as Uber and Lyft, transportation researchers, highway agencies, auto insurance companies, and many others for gaining insights into driver behavior and travel patterns as well as improving operational efficiency. There are various commercial and open source map matching solutions available for use such as Google's Snap to Roads API, Mapbox' Map Matching API, and QGIS's map matching plugin; however, these options are either very expensive (e.g., costs ~$4k to match 500k GPS points using Google's API) or are very feature-rich (e.g., QGIS) with many more features than we typically need. The fast map matching (FMM) is a lightweight standalone tool for map matching that addresses these issues and is blazing fast. It also has excellent support for large spatial datasets. In this talk, I will discuss the internal specifics of my forthcoming "mapmatchr" R package that provides an R wrapper for the FMM tool.
+
+- **17 January 2022**  
+**Presenter**: Emily Robinson  
+**Title**: Intergalactic Time Travel: Estimation Pilot Study  
+**Abstract**:  
+Questioning matters! The last graphical test for my research involves graph comprehension and extracting information from the chart. My talk will involve an interactive portion, inviting you to participate and provide feedback on the study. We will then discuss important aspects of graph comprehension and how they relate to selecting questions for the literal reading of data, reading between the data, and reading beyond the data. I will also share my Wikipedia literature review on intergalactic time conversions.
+
 - **17 November 2021**  
 **Presenter**: Guillermo Basulto-Elias  
 **Title**: Late-Season Corn Stalk Nitrate from Farmer Fields: Development of an Interactive App & Data-Analytics Framework  
@@ -16,7 +28,7 @@ Nitrogen (N) must be managed efficiently to reach profitability while limiting N
 
 - **28 October 2021**  
 **Presenter**: Niladri Roy Chowdhury  
-**Title**: The 'See'-Value App: Visual Decision-Making for Drug Development
+**Title**: The 'See'-Value App: Visual Decision-Making for Drug Development  
 **Abstract**:  
 Humans are notorious at seeing patterns in plots even when there are none, especially when there is some incentive (e.g. financial) to do so. To avoid these pitfalls, the lineup protocol (Buja et. al 2009) calls for generating a number of simulated ("null") plots and asking a user to try to pick out the real data from the rest. We created an R-shiny App that allows the user to generate these lineups by using preloaded examples or by uploading their own data. Any number of users can then select the plot that they each think has the real data and individually check if their choice was correct. If enough users choose correctly (before seeing the real answer), the evidence suggests the real plot is significantly (and substantively) different from the null plots. To make this intuition precise, our app calculates a "see"-value, which can be used to decide statistical significance. Our app supports different types of analysis using continuous, binary, or time-to-event responses --- and continuous or categorical predictors. 
 
