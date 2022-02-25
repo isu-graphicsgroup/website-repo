@@ -1,0 +1,17 @@
+---
+title: "Automatic Image Captioning using Convolutional and Recurrent Neural Networks"
+author: "Ved Piyush"
+date: '2022-03-03'
+slug: map-matching-in-r
+categories: ["Machine Learning"]
+tags: ["convolutional neural network", "image processing", "text analysis", "python"]
+description: ''
+images:
+  # - /post/2022-03-03-ved.png
+---
+
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+
+
+<!-- ![](/post/2022-03-03-ved.png) -->
+<p>Automatic image captioning is the process of generating a descriptive text description for an image. Image captioning is one of the few applications of deep neural networks where we work with image and text data simultaneously. This captioning model can be trained using standard backpropagation techniques such as Stochastic Gradient Descent (SGD). I trained this model on the MS-COCO dataset with real-world images of humans, animals, vehicles, etc., in various situations and surroundings. For training purposes, I use about 30,000 images which have five human annotations each. The trained captioning model is composed of a Convolutional Neural Network (CNN) to extract features from the image and a Long Short Term Memory Model (LSTM) to extract features from the text description of the image. The goal of the learning problem is to use these visual and textual features to predict a caption as close to the ground truth human caption as possible. To make the model more interpretable, I leverage the work of <a href="https://arxiv.org/abs/1502.03044">Xu et al.</a> to visualize where in the image the model fixes its gaze to predict the words in the generated caption. A potential use case of the captioning model would be to create an application that can describe what is happening in a video frame by frame.</p>
