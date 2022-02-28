@@ -1,13 +1,19 @@
 # Talks
 Talks at the graphics working group
 
-- **24 January 2022**  
+- **3 March 2022**  
+**Presenter**: Ved Piyush  
+**Title**: Automatic Image Captioning using Convolutional and Recurrent Neural Networks  
+**Abstract**:  
+Automatic image captioning is the process of generating a descriptive text description for an image. Image captioning is one of the few applications of deep neural networks where we work with image and text data simultaneously. This captioning model can be trained using standard backpropagation techniques such as Stochastic Gradient Descent (SGD). I trained this model on the MS-COCO dataset with real-world images of humans, animals, vehicles, etc., in various situations and surroundings. For training purposes, I use about 30,000 images which have five human annotations each. The trained captioning model is composed of a Convolutional Neural Network (CNN) to extract features from the image and a Long Short Term Memory Model (LSTM) to extract features from the text description of the image. The goal of the learning problem is to use these visual and textual features to predict a caption as close to the ground truth human caption as possible. To make the model more interpretable, I leverage the work of [Xu et al.](https://arxiv.org/abs/1502.03044) to visualize where in the image the model fixes its gaze to predict the words in the generated caption. A potential use case of the captioning model would be to create an application that can describe what is happening in a video frame by frame.
+
+- **24 February 2022**  
 **Presenter**: Ashirwad Barnwal  
 **Title**: Map matching in R  
 **Abstract**:  
 Map matching is an interesting problem that involves snapping noisy GPS traces to a road network with a high degree of accuracy. It is used by ride-sharing services such as Uber and Lyft, transportation researchers, highway agencies, auto insurance companies, and many others for gaining insights into driver behavior and travel patterns as well as improving operational efficiency. There are various commercial and open source map matching solutions available for use such as Google's Snap to Roads API, Mapbox' Map Matching API, and QGIS's map matching plugin; however, these options are either very expensive (e.g., costs ~$4k to match 500k GPS points using Google's API) or are very feature-rich (e.g., QGIS) with many more features than we typically need. The fast map matching (FMM) is a lightweight standalone tool for map matching that addresses these issues and is blazing fast. It also has excellent support for large spatial datasets. In this talk, I will discuss the internal specifics of my forthcoming "mapmatchr" R package that provides an R wrapper for the FMM tool.
 
-- **17 January 2022**  
+- **17 February 2022**  
 **Presenter**: Emily Robinson  
 **Title**: Intergalactic Time Travel: Estimation Pilot Study  
 **Abstract**:  
