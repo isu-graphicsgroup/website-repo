@@ -1,0 +1,19 @@
+---
+title: "Going Analog: Emerging from the Weeds and Broadening our Audience"
+author: "Sara Stoudt"
+date: '2022-03-10'
+slug: going-analog-emerging-from-the-weeds-and-broadening-our-audience
+categories: ["Data Art"]
+tags: ["data art", "teaching", "communication"]
+description: ''
+images:
+  - /post/2022-03-10-sara.jpg
+---
+
+![](/post/2022-03-10-sara.jpg)
+
+We could all use a break from our manuscripts (and our screens). Can thinking about our work in a new way help us re-energize? In this talk I’ll share some non-traditional data products that inspire me, some work I’ve been involved with inspired by these new mediums (including work with students), and some reflections about how expanding our sense of what “counts” as a research product can help us reach a broader audience. We’ll even make zines (a DIY blend of text and drawings) that you can take away from the session. 
+
++ **Materials needed:** sheet of paper, writing utensil
++ **Optional materials:** colored writing utensils, scissors
+

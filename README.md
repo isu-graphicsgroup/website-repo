@@ -1,6 +1,12 @@
 # Talks
 Talks at the graphics working group
 
+- **10 March 2022**  
+**Presenter**: [Sara Stoudt](https://sastoudt.github.io/)  
+**Title**: Going Analog: Emerging from the Weeds and Broadening our Audience  
+**Abstract**:  
+We could all use a break from our manuscripts (and our screens). Can thinking about our work in a new way help us re-energize? In this talk I’ll share some non-traditional data products that inspire me, some work I’ve been involved with inspired by these new mediums (including work with students), and some reflections about how expanding our sense of what “counts” as a research product can help us reach a broader audience. We’ll even make zines (a DIY blend of text and drawings) that you can take away from the session. *Materials needed: sheet of paper, writing utensil; Optional materials: colored writing utensils, scissors*
+
 - **3 March 2022**  
 **Presenter**: Ved Piyush  
 **Title**: Automatic Image Captioning using Convolutional and Recurrent Neural Networks  
