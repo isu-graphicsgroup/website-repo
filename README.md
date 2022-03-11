@@ -1,6 +1,12 @@
 # Talks
 Talks at the graphics working group
 
+- **24 March 2022**  
+**Presenter**: [Silas Bergan](https://driftlessdata.space/)  
+**Title**: Applying unsupervised and supervised learning methods to minimize risk to bald eagles from industrial wind turbines  
+**Abstract**:  
+In this talk I describe a collaboration with research wildlife biologists and statisticians to analyze over 2 million data points collected from GPS telemetry devices attached to bald eagles. My research project involved two phases: unsupervised learning, and supervised learning.  The intent of this project was to understand land types where bald eagles might be at greater risk of collision with industrial wind turbines to inform placement of wind farms.
+
 - **10 March 2022**  
 **Presenter**: [Sara Stoudt](https://sastoudt.github.io/)  
 **Title**: Going Analog: Emerging from the Weeds and Broadening our Audience  
