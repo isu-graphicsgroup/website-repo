@@ -1,6 +1,6 @@
 ---
 title: "Applying unsupervised and supervised learning methods to minimize risk to bald eagles from industrial wind turbines"
-author: "Silas Bergan"
+author: "Silas Bergen"
 date: '2022-03-24'
 slug: applying-unsupervised-and-supervised-learning-methods-to-minimize-risk-to-bald-eagles-from-industrial-wind-turbines
 categories: ["Machine Learning"]
@@ -13,4 +13,6 @@ images:
 ![](/post/2022-03-24-silas.jpg)
 
 In this talk I describe a collaboration with research wildlife biologists and statisticians to analyze over 2 million data points collected from GPS telemetry devices attached to bald eagles. My research project involved two phases: unsupervised learning, and supervised learning.  The intent of this project was to understand land types where bald eagles might be at greater risk of collision with industrial wind turbines to inform placement of wind farms.
+
+See corresponding research article, [Classifying behavior from short-interval biologging data: An example with GPS tracking of birds](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ece3.8395) in *Ecology and Evolution*.
 
