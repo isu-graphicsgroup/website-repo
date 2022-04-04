@@ -1,6 +1,12 @@
 # Talks
 Talks at the graphics working group
 
+- **7 April 2022**  
+**Presenter**: [Denise Bradford](https://www.deniserbradford.com/)  
+**Title**: Exploring Rural Shrink Smart Through Guided Discovery Dashboards  
+**Abstract**:  
+Many small and rural places are shrinking. Interactive dashboards are the most common use cases for data visualization and context for exploratory data tools. In our paper, we will explore the specific scope of how dashboards are used in small and rural areas to empower novice analysts to make data-driven decisions. Our framework will suggest a number of research directions to better support small and rural places from shrinking using an interactive dashboard design, implementation, and use for the everyday analyst.
+
 - **24 March 2022**  
 **Presenter**: [Silas Bergen](https://driftlessdata.space/)  
 **Title**: Applying unsupervised and supervised learning methods to minimize risk to bald eagles from industrial wind turbines  
