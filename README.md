@@ -1,6 +1,12 @@
 # Talks
 Talks at the graphics working group
 
+- **14/21 April 2022**  
+**Presenter**: [Ian Lyttle](https://ijlyttle.github.io/index.html)  
+**Title**: Introduction to Dash (using Python) and Observable (Using JavaScript)  
+**Abstract**:  
+If you have built a Shiny app, you have some familiarity with the concept of reactivity. For the next two graphics-groups, we’ll talk about two alternatives to Shiny which also use reactivity: Dash, using Python and Observable, using JavaScript. As examples, we’ll talk about how you can build the “same” app using all three tools. For the first session, we’ll discuss Shiny and Dash. Here’s a reference I’m working on: https://ijlyttle.github.io/reactivity-three-ways-quarto/. If you like, you can have a read through the “Shiny” chapter to set the stage. We’ll focus on the “Python” chapter this Thursday. As well, I have built an RStudio Cloud project that ***you*** can use on Thursday to try out the Dash app – all you would need to do is sign up for the ***free*** level of RStudio Cloud: https://rstudio.cloud/plans/free.
+
 - **7 April 2022**  
 **Presenter**: [Denise Bradford](https://www.deniserbradford.com/)  
 **Title**: Exploring Rural Shrink Smart Through Guided Discovery Dashboards  
