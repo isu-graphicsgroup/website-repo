@@ -1,6 +1,12 @@
 # Talks
 Talks at the graphics working group
 
+- **28 April 2022**  
+**Presenter**: Alison Kleffner
+**Title**: Using Python in R through the `Reticulate` Package and its Integration with R Shiny  
+**Abstract**:  
+When working on a project, sometimes it is necessary to use different programming languages to accomplish a task. The `Reticulate` Package in R creates a R interface to Python, allowing for R and Python to be used smoothly with each other. This presentation will give a brief overview of the `Reticulate` Package. As an example of the use of this package, I will present a Shiny application that I have been developing, and the steps I took in order to get Python working within the app. This Shiny App will be used to create experimental designs for a farmer’s field based on their specific field conditions (e.g. type of treatment, size of field, etc), where the creation of this design happens in both R and Python.
+
 - **14/21 April 2022**  
 **Presenter**: [Ian Lyttle](https://ijlyttle.github.io/index.html)  
 **Title**: Introduction to Dash (using Python) and Observable (Using JavaScript)  
