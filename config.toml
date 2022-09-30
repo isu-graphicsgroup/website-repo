@@ -93,7 +93,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
 
   [params.sidebar]
     # Optional about block for sidebar (can be Markdown)
-    about = "For the remainder of the Spring 2022 semester, we will meet on Thursdays at 4:00 pm via Zoom. Please join us for presentations on statistical graphics and computational tools. (Contact emily.robinson@huskers.unl.edu for access to the Zoom link.) <br> <br> Information about our weekly talks can be found on this website."
+    about = "For the Fall 2022 semester, we will meet on Thursdays at 3:30 pm in a hybrid format: at ISU, we meet at 195 Durham (CSAFE suite), we will also meet via Zoom. Please join us for presentations on statistical graphics and computational tools. (Contact Denise Bradford, denise.bradford@huskers.unl.edu, for access to the Zoom link.) <br> <br> Information about our weekly talks can be found on this website."
 
     # How many posts to show on the sidebar (Default: 5)
     num_recent_posts = 3
