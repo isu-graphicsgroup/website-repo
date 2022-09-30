@@ -4,7 +4,7 @@ author: Kiegan Rice
 date: '2022-09-23'
 slug: testing-charts-for-accuracy-and-interpretation
 categories:
-  - category
+  - visual communication
 tags:
   - testing
 description: ''

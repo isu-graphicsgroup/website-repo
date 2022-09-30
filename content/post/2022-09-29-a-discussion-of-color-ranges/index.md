@@ -4,7 +4,7 @@ author: Ian Lyttle
 date: '2022-09-29'
 slug: a-discussion-of-color-ranges
 categories:
-  - category
+  - visual communication
 tags:
   - colors
 description: ''
