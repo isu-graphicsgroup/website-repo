@@ -1,6 +1,26 @@
 # Talks
 Talks at the graphics working group
 
+
+
+- **27 Oct 2022**  
+**Presenter**: Jacob Bien, University of Southern California  
+**Title**: The `litr` package - it's turtles all the way down!  
+**Abstract**: The `litR` R package lets you write a complete R package in a single R markdown document. This enables a workflow for writing R packages that is probably very different from what you are used to.
+http://faculty.marshall.usc.edu/jacob-bien/litr/docs/index.html
+
+
+- **20 Oct 2022**   
+**Presenter**: Alison Hill, RStudio (presenting indirectly)  
+**Title**: Watchparty! Made with yarn, strings, and glue: Making R Markdown work better for you  
+**Abstract**: This week we will watch Alison Hill talk with the Cleveland R User group about making R Markdown a better integrated tool for your work.
+Alison Hill is a data scientist, behavioral scientist, and an award-winning educator. At RStudio, Dr. Hill works to expand how data scientists can communicate when they use RStudio’s tools for collaborating, sharing, and presenting. Alison loves teaching, and has led advanced workshops on data science communication and machine learning at rstudio::conf, R / Medicine, and R in Pharma. She is also an international keynote speaker (https://alison.rbind.io/talks), co-developer of the palmerpenguins (https://allisonhorst.github.io/palmer...) and distill (https://rstudio.github.io/distill/) R packages, and co-author of the book blogdown: Creating Websites with R Markdown (https://bookdown.org/yihui/blogdown/).
+
+- **13 Oct 2022** 
+**Presenter**: James Otto, Baylor University   
+**Title**: The ggdensity package  
+**Abstract**: A popular strategy for visually summarizing bivariate data is plotting contours of an estimated density surface. Most commonly, the density is estimated with a kernel density estimator and the plotted contours correspond to equally spaced intervals of the estimated density's height. Notably, this is the case for geom_density_2d() and geom_density_2d_filled() from ggplot2. ggdensity extends ggplot2, providing more interpretable visualizations of density estimates based on highest density regions (HDRs). geom_hdr() and geom_hdr_lines() serve as drop-in replacements for the aforementioned ggplot2 functions, plotting density contours that are chosen to be inferentially relevant. By default, they plot the smallest regions containing 50%, 80%, 95%, and 99% of the estimated density (the HDRs). This results in very interpretable graphics, conveying more information than arbitrary density contours. ggdensity allows for the plotting of contours of densities estimated via methods other than the standard kernel density estimator. Densities can also be estimated by histograms, frequency polygons, and fitting a parametric bivariate normal model. Also included are the functions geom_hdr_fun() and geom_hdr_fun_lines() for plotting HDRs of user-specified probability density functions. This allows for the plotting of a much larger class of HDR estimators than the four available for geom_hdr(). Users can specify and estimate arbitrary parametric models, providing the resulting pdf estimates to geom_hdr_fun() for contouring.
+
 - **29 Sep 2022** 
 **Presenter**: Ian Lyttle  
 **Title**: A discussion of color ranges  
