@@ -298,8 +298,8 @@ pre code {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -307,16 +307,9 @@ pre code {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -369,6 +362,63 @@ pre code {
 <h1>Talks</h1>
 <p>Talks at the graphics working group</p>
 <ul>
+<li><p><strong>27 Oct 2022</strong><br />
+<strong>Presenter</strong>: Jacob Bien, University of Southern
+California<br />
+<strong>Title</strong>: The <code>litr</code> package - it’s turtles all
+the way down!<br />
+<strong>Abstract</strong>: The <code>litR</code> R package lets you
+write a complete R package in a single R markdown document. This enables
+a workflow for writing R packages that is probably very different from
+what you are used to. <a href="http://faculty.marshall.usc.edu/jacob-bien/litr/docs/index.html" class="uri">http://faculty.marshall.usc.edu/jacob-bien/litr/docs/index.html</a></p></li>
+<li><p><strong>20 Oct 2022</strong><br />
+<strong>Presenter</strong>: Alison Hill, RStudio (presenting
+indirectly)<br />
+<strong>Title</strong>: Watchparty! Made with yarn, strings, and glue:
+Making R Markdown work better for you<br />
+<strong>Abstract</strong>: This week we will watch Alison Hill talk with
+the Cleveland R User group about making R Markdown a better integrated
+tool for your work. Alison Hill is a data scientist, behavioral
+scientist, and an award-winning educator. At RStudio, Dr. Hill works to
+expand how data scientists can communicate when they use RStudio’s tools
+for collaborating, sharing, and presenting. Alison loves teaching, and
+has led advanced workshops on data science communication and machine
+learning at rstudio::conf, R / Medicine, and R in Pharma. She is also an
+international keynote speaker (<a href="https://alison.rbind.io/talks" class="uri">https://alison.rbind.io/talks</a>), co-developer of the
+palmerpenguins (<a href="https://allisonhorst.github.io/palmer" class="uri">https://allisonhorst.github.io/palmer</a>…) and distill (<a href="https://rstudio.github.io/distill/" class="uri">https://rstudio.github.io/distill/</a>) R packages, and
+co-author of the book blogdown: Creating Websites with R Markdown (<a href="https://bookdown.org/yihui/blogdown/" class="uri">https://bookdown.org/yihui/blogdown/</a>).</p></li>
+<li><p><strong>13 Oct 2022</strong> <strong>Presenter</strong>: James
+Otto, Baylor University<br />
+<strong>Title</strong>: The ggdensity package<br />
+<strong>Abstract</strong>: A popular strategy for visually summarizing
+bivariate data is plotting contours of an estimated density surface.
+Most commonly, the density is estimated with a kernel density estimator
+and the plotted contours correspond to equally spaced intervals of the
+estimated density’s height. Notably, this is the case for
+geom_density_2d() and geom_density_2d_filled() from ggplot2. ggdensity
+extends ggplot2, providing more interpretable visualizations of density
+estimates based on highest density regions (HDRs). geom_hdr() and
+geom_hdr_lines() serve as drop-in replacements for the aforementioned
+ggplot2 functions, plotting density contours that are chosen to be
+inferentially relevant. By default, they plot the smallest regions
+containing 50%, 80%, 95%, and 99% of the estimated density (the HDRs).
+This results in very interpretable graphics, conveying more information
+than arbitrary density contours. ggdensity allows for the plotting of
+contours of densities estimated via methods other than the standard
+kernel density estimator. Densities can also be estimated by histograms,
+frequency polygons, and fitting a parametric bivariate normal model.
+Also included are the functions geom_hdr_fun() and geom_hdr_fun_lines()
+for plotting HDRs of user-specified probability density functions. This
+allows for the plotting of a much larger class of HDR estimators than
+the four available for geom_hdr(). Users can specify and estimate
+arbitrary parametric models, providing the resulting pdf estimates to
+geom_hdr_fun() for contouring.</p></li>
+<li><p><strong>29 Sep 2022</strong> <strong>Presenter</strong>: Ian
+Lyttle<br />
+<strong>Title</strong>: A discussion of color ranges<br />
+<strong>Abstract</strong>: discussion of color spaces, optimizing color
+ranges for aesthetics, light&amp;dark mode, and accessibility and the
+associated compromises we have to make.</p></li>
 <li><p><strong>23 Sep 2022</strong> <strong>Presenter</strong>: Kiegan
 Rice<br />
 <strong>Title</strong>: Testing Charts for Accuracy and
