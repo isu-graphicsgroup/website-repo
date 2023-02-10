@@ -2,13 +2,13 @@
 Talks at the graphics working group
 
 - **9 Feb 2023**  
-**Presenter**: Tyler Wiederich, University of Nebraska-Lincoln 
+**Presenter**: Tyler Wiederich, University of Nebraska-Lincoln  
 **Title**: Evaluating Perceptual Judgements on 3D Printed Bar Charts  
 **Abstract**: It is well documented that the accuracy of data comparisons is worse for 3D charts, but these studies are almost entirely focused on 2D projections. In this week's meeting, you will have the opportunity to explore the use of truly three-dimensional charts, as well as more realistic 3D renderings using WebGL and traditional two-dimensional charts. We'll discuss the Cleveland & McGill study and the challenges of conducting studies that require participants to use both physical and virtual data displays. If you have the ability to attend this meeting in person, you will want to do so!
 
 
 - **2 Feb 2023**  
-**Presenter**: Guillermo Basulto, InTrans, Iowa State University 
+**Presenter**: Guillermo Basulto, InTrans, Iowa State University  
 **Title**: Summarizing live traffic incidents in Iowa   
 **Abstract**: Traffic incidents in Iowa are constantly reported through the Advanced Traffic Management System (ATMS). On average, over 100 traffic incidents are daily incidents are reported in ATMS, from crashes and vehicle fires to slow traffic and stalled vehicles. In order to make understand the spatial component of them, trends, summaries and severity, we have developed an interactive dashboard in shiny.
 I will describe the challenges and decisions I made to combine old information and up-to-date information; the tables and figures used to summarize the information; the additional sources of information to provide context to the incidents; and the upcoming and tentative changes to it. I will briefly talk about the technical aspects of the dashboard; it was developed in shiny using a wide variety of packages, like the whole tidyverse, sf, plotly, DT, and leaflet.
