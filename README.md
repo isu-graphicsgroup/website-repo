@@ -678,7 +678,8 @@ can be used to parallelize computation.
 - **21 Feb. 2018**:  
 **Presenter:** Weicheng Zhu  
 **Title:** Blogdown quick tutorial  
-**Abstract:** In this talk, I will show you how to create a professional academic homepage (or blog) from scratch using the R package 'blogdown'. I will first introduce some basic concepts of web construction and some essential tools ('rmarkdown' and 'git/github') that will be used in building websites with 'blogdown'. Then I will illustrate how to build a website step by step. By the end of the meeting, you are expected to have your own homepage created!
+**Abstract:** In this talk, I will show you how to create a professional academic homepage (or blog) from scratch using the R package 'blogdown'. I will first introduce some basic concepts of web construction and some essential tools ('rmarkdown' and 'git/github') that will be used in building websites with 'blogdown'. Then I will illustrate how to build a website step by step. By the end of the meeting, you are expected to have your own homepage created! Slides are available at: https://slides.com/mingsnu
+  
 
 - **14 Feb. 2018**:  
 **Presenters:** Eric Hare, Lawrence Mosley, and Nadia Antony  
